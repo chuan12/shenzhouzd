@@ -1,24 +1,24 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "Y0haaWRubDNkV0Y2YVM1MGJYRjRheTV0YkE9PQ==", "ZG5CMmRucHlkR2t1YzNwNlpDNXRaVzQ9", "Y0haaWRubDNkV0Y2YVM1MGJYRjRheTV0YkE9PQ=="],
+                 "value": [ "Y0haaWRubDNkV0Y2YVM1MGJYRjRheTV0YkE9PQ==", "YldwM2NXaHhhR011YzNwNlpHTmtiaTVtWVdsMGFBPT0=", "Y0haaWRubDNkV0Y2YVM1MGJYRjRheTV0YkE9PQ=="],
                  "fq": "Y0haaWRubDNkV0Y2YVM1MGJYRjRheTV0YkE9PQ=="
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOVNZV1l4YTFCRQ==", "ZEM1amJpOVNXRmcwY1dzMw==", "ZEM1amJpOVNOblJLWVZaYQ=="]
+                 "value": [ "ZEM1amJpOVNXV1ZMY1RkTQ==", "ZEM1amJpOVNZWFJHZVdGRA==", "ZEM1amJpOVNXRm93UlhkaA=="]
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSMVY1V2c9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSMGR6V0E9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSMGRUVmc9PQ=="]
+                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSMkp5WXc9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSM2xJTnc9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSMVY1UVE9PQ=="]
                }, 
   "fo04url": { "name": "fo04",
                  "value": [ "TVM0eE5qVXVNVEV3TGpFNE53PT0=", "TXpZdU1qTXpMamt3TGpjeg==", "TVM0eE5qVXVNVEV3TGpFNE53PT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TmpFdU1qSTRMakl4T1M0eU16WT0=", "YVdSMmRXSXVjM3A2WkM1dFpXND0=", "WTJ0bWJIZHpMbk42ZW1RdWNISmxjM009"]
+                 "value": [ "TmpFdU1qSTRMakl5TUM0Mk9BPT0=", "YldOdGEyWjNiMm91YzNwNlpDNW1ZV2wwYUE9PQ==", "YzJscmRIRjNieTV6ZW5wa2IyZGhkR1V1ZDJsdQ=="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVtMTFhVGhzTVE9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVtMTFhVGhJTUE9PQ==", "YUdoeVozTm9ZUzV1YldWc2RXMXNMbWRo"]
+                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVtMTFhVGhzTVE9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVtMTFhVGhzTVE9PQ==", "WW1Wa2MyRnpjeTV4ZFd4NWJpNXRiQT09"]
                }, 
 
     "article": { "name": "最新文章", 
