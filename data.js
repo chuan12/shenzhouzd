@@ -1,24 +1,24 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "YkhGb2NXSnBkaTVwWVdwNFlXa3VaM0U9", "WjJab2JXd3VjM3A2WkM1bVlXbDBhQT09", "YkhGb2NXSnBkaTVwWVdwNFlXa3VaM0U9"],
-                 "fq": "YkhGb2NXSnBkaTVwWVdwNFlXa3VaM0U9"
+                 "value": [ "ZEdwM2NtZ3VhV0ZxZUdGcExtZHg=", "WW5ONWRIRm5ibXd1YzNwNlpDNW9iM04w", "ZEdwM2NtZ3VhV0ZxZUdGcExtZHg="],
+                 "fq": "ZEdwM2NtZ3VhV0ZxZUdGcExtZHg="
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOVNZWGw1VTFCdQ==", "ZEM1amJpOVNXRWxHVFRFMQ==", "ZEM1amJpOVNOblJuY2xCTg=="]
+                 "value": [ "ZEM1amJpOVNXRzEwTjFsdg==", "ZEM1amJpOVNObkJXWkhsUA==", "ZEM1amJpOVNZWEF3VFdveQ=="]
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSelJFWmc9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSMVV3WXc9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSMkp5Wmc9PQ=="]
+                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSelJFZUE9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSMVY1V2c9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSelJ2Vmc9PQ=="]
                }, 
   "fo04url": { "name": "fo04",
                  "value": [ "TXpZdU1qTXpMalkyTGpFek9RPT0=", "TXpZdU1qTXpMalk1TGpZMQ==", "TXpZdU1qTXpMalkyTGpFek9RPT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpFNUxqZzFMakV3Tmk0Mg==", "WldGNWJISmlMbk42ZW1RdVptRnBkR2c9", "Y21KemFtOHVjM3A2WkdOa2JpNXRaVzQ9"]
+                 "value": [ "TmpFdU1qSTRMakl4Tmk0eU1Uaz0=", "YUhsaWVIaHFZMlpvTG5ONmVtUXVabUZwZEdnPQ==", "YjJoMFlXeDZlbkl1YzNwNlpDNXdjbVZ6Y3c9PQ=="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVuVk1RVmcyUlE9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVuVk1RVmcyUlE9PQ==", "ZUhGeWRHTnhMbkIwWVdscWFHTXVZMlk9"]
+                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVuVk1RVmcyUlE9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVuVk1RVmcyUlE9PQ==", "ZUhoMWEyWnlMbWRzYUhSMlkza3VaM0U9"]
                }, 
 
     "article": { "name": "最新文章", 
