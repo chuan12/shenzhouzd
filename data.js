@@ -1,24 +1,24 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "ZVhSaFpHcHdjbnA1TG5aM2IySm5MbU5t", "WTNkNGVtTnBaWEptTG5ONmVtUmpaRzR1Wkc5M2JteHZZV1E9", "ZVhSaFpHcHdjbnA1TG5aM2IySm5MbU5t"],
+                 "value": [ "ZVhSaFpHcHdjbnA1TG5aM2IySm5MbU5t", "ZUdwMWRXRnJZMk5vWVM1emVucGtZMlJ1TG1SdmQyNXNiMkZr", "ZVhSaFpHcHdjbnA1TG5aM2IySm5MbU5t"],
                  "fq": "ZVhSaFpHcHdjbnA1TG5aM2IySm5MbU5t"
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOVNXR2huTnpNMw==", "ZEM1amJpOVNObmgyTlVGYQ==", "ZEM1amJpOVNZWEF3VFdwQg=="]
+                 "value": [ "ZEM1amJpOVNObTVTWWtSbg==", "ZEM1amJpOVNObWRqUlROaw==", "ZEM1amJpOVNOak4wYjNwQw=="]
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSM2xJVUE9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSMVY1V2c9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSelJ2Vmc9PQ=="]
+                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSelJvYkE9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSMGRUTkE9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSMkpLVHc9PQ=="]
                }, 
   "fo04url": { "name": "fo04",
                  "value": [ "TXpZdU1qTXpMalEzTGpJNA==", "TXpZdU1qTXpMalk1TGpZMQ==", "TXpZdU1qTXpMalEzTGpJNA=="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpFNUxqZzFMakV3Tmk0eQ==", "YTNOaVlXWjJabVZ3YVM1emVucGtMbTFsYmc9PQ==", "ZEdWb1lXWnNaeTV6ZW5wa1kyUnVMbTFsYmc9PQ=="]
+                 "value": [ "TWpFNUxqZzFMakV3Tmk0eQ==", "WlhSeVlXNXBiUzV6ZW5wa0xtaHZjM1E9", "ZDNONmVHcHlkMjh1YzNwNlpHOW5ZWFJsTG5kcGJnPT0="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVuVmlTbmhTWWc9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVuVmlTbmhTWWc9PQ==", "ZVhwNWVtaHhhWEl1YjNkbGJtTXViV3c9"]
+                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVuVmlTbmhTWWc9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVuVmlTbmh1VXc9PQ==", "YVhSemFuRjFhaTVpWW1ob1pXOWhjQzVuWVE9PQ=="]
                }, 
 
     "article": { "name": "最新文章", 
