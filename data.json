@@ -1,24 +1,24 @@
  {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkdONWRYaGlheTUwWldONVpTNXRiQT09", "YjNSb2JuRXVjM3A2WkM1dFpXND0=", "WkdONWRYaGlheTUwWldONVpTNXRiQT09"],
-                 "fq": "WkdONWRYaGlheTUwWldONVpTNXRiQT09"
+                 "value": [ "ZDJ0cmQyTnpkQzUwWldONVpTNXRiQT09", "YVhaamIzRnpjMjVvZHk1emVucGtMbTFsYmc9PQ==", "ZDJ0cmQyTnpkQzUwWldONVpTNXRiQT09"],
+                 "fq": "ZDJ0cmQyTnpkQzUwWldONVpTNXRiQT09"
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOVNVM2x2TWtWag==", "ZEM1amJpOVNZWFJHZVdFNQ==", "ZEM1amJpOVNXRFZ2ZEZkeg=="]
+                 "value": [ "ZEM1amJpOVNZVE5FVERoTw==", "ZEM1amJpOVNXRVJXYUVoVA==", "ZEM1amJpOVNObXBYVjJoMQ=="]
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSelJ2Wmc9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSelJvVkE9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSMVV3U2c9PQ=="]
+                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSMkpLVHc9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSMVY1V2c9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSM2xVUkE9PQ=="]
                }, 
   "fo04url": { "name": "fo04",
                  "value": [ "TVM0eE56QXVPRGt1TVRneA==", "TXpZdU1qTXpMalk1TGpZMQ==", "TVM0eE56QXVPRGt1TVRneA=="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpFNUxqZzFMakV3Tmk0eQ==", "Ym1adVoySm5hbWxtYUM1emVucGtMbVpoYVhSbw==", "ZEdGaWVYcDZkWGRqTG5ONmVtUXVjbVYyYVdWMw=="]
+                 "value": [ "TWpFNUxqZzFMakV3Tmk0eQ==", "YjNSeGRtOWxZeTV6ZW5wa1kyUnVMbVJ2ZDI1c2IyRms=", "WTJOaGMySmhhSGN1YzNwNlpHTmtiaTV3ZHc9PQ=="]
                },
  "ogColl": { "name": "网门",
-                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVuVTBTVzlhT0E9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVuVTBTVzlhT0E9PQ==", "WVdwcGNtVmtaeTU1WjJkcWVuRjVMbWRo"]
+                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVuVTBTVzlhT0E9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVuVTBTVzlhT0E9PQ==", "YTI5NWVXOXhiQzU2ZVdkMWEyTjFMbU5t"]
                }, 
 
     "ogate" :  { "name": "网门动态网址",
