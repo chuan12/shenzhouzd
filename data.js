@@ -1,24 +1,24 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "Wm5kNmFHSjNjR291ZEhabmEzTndMbU5t", "Y0daaGJIbG9kQzV6ZW5wa0xtWmhhWFJv", "Wm5kNmFHSjNjR291ZEhabmEzTndMbU5t"],
+                 "value": [ "Wm5kNmFHSjNjR291ZEhabmEzTndMbU5t", "ZEc1emMyeHFZbmhqZHk1emVucGtZMlJ1TG1aaGFYUm8=", "Wm5kNmFHSjNjR291ZEhabmEzTndMbU5t"],
                  "fq": "Wm5kNmFHSjNjR291ZEhabmEzTndMbU5t"
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOVNZVk5wVUhoQw==", "ZEM1amJpOVNXRzEwTjFsTw==", "ZEM1amJpOVNXRVJXYUVoVA=="]
+                 "value": [ "ZEM1amJpOVNZV2xUWTBwbg==", "ZEM1amJpOVNZVkJ1WW5wRA==", "ZEM1amJpOVNObWRqUlRORQ=="]
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSelJFZUE9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSMGR6U2c9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSMVY1ZWc9PQ=="]
+                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSMVV3Vmc9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSMVY1UVE9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSMVV3U1E9PQ=="]
                }, 
   "fo04url": { "name": "fo04",
                  "value": [ "TXpZdU1qTXpMamsxTGpFek13PT0=", "TVRJMUxqSXpNUzR4TVRndU1qTXc=", "TXpZdU1qTXpMamsxTGpFek13PT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpFNUxqZzFMakV3TlM0eE16QT0=", "WW1aMGFXNXhjV1YyYVM1emVucGtZMlJ1TG1aaGFYUm8=", "ZEc5MmNuaDNkQzV6ZW5wa0xuQnlaWE56"]
+                 "value": [ "TWpFNUxqZzFMakV3TlM0eE1qTT0=", "Y0hsaFltSjVhaTV6ZW5wa1kyUnVMbVJ2ZDI1c2IyRms=", "WjNkbFpXRm5iV3d1YzNwNlpHOW5ZWFJsTG5kcGJnPT0="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVuVlBNelJJUlE9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVuVlBNelJSZUE9PQ==", "Ym5GdWIydGlhUzV3WVhGb2RtUjZkaTVuY1E9PQ=="]
+                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVuVlBNelJJUlE9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVuVlBNelJJUlE9PQ==", "YzNSelozQmliQzUzWlc5alltY3VZMlk9"]
                }, 
 
     "article": { "name": "最新文章", 
