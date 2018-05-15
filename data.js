@@ -1,24 +1,24 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "Wm1SbmIzTjRlUzUzZVhaclkyZ3VaMkU9", "YkdwMlltVnplQzV6ZW5wa2IyZGhkR1V1YzJOcFpXNWpaU0E9", "Wm1SbmIzTjRlUzUzZVhaclkyZ3VaMkU9"],
+                 "value": [ "Wm1SbmIzTjRlUzUzZVhaclkyZ3VaMkU9", "ZEdWelluSnJhQzV6ZW5wa0xuTmphV1Z1WTJVZw==", "Wm1SbmIzTjRlUzUzZVhaclkyZ3VaMkU9"],
                  "fq": "Wm1SbmIzTjRlUzUzZVhaclkyZ3VaMkU9"
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOVNOa0p1Tm5Seg==", "ZEM1amJpOVNZV3RQTTI5VQ==", "ZEM1amJpOVNZV1YyVlVsdA=="]
+                 "value": [ "ZEM1amJpOVNXR2huTnpOQg==", "ZEM1amJpOVNXRk5WUVRVNA==", "ZEM1amJpOVNZV1YyVlVsMQ=="]
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSM2xJTnc9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSM0ZZY3c9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSelJ2Wmc9PQ=="]
+                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSMVV3U1E9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSM0ZoZHc9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrcHZSelJvVkE9PQ=="]
                }, 
   "fo04url": { "name": "fo04",
                  "value": [ "TVM0eE5qVXVNVEE0TGpFNU9RPT0=", "TVRFeExqSTFNeTR5TWpFdU9UVT0=", "TVM0eE5qVXVNVEE0TGpFNU9RPT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TmpFdU1qTXdMakU0TGpjeg==", "Y210aWVtaHpiV1F1YW1sdWVHbHVMbkpsZG1sbGR3PT0=", "YUdsMGJta3VlV2x1WjNWdkxtMWxiZz09"]
+                 "value": [ "TWpFNUxqZzFMakV4TVM0MU1BPT0=", "ZG5sNWVYUmpkWFZsZWk1emVucGtiMmRoZEdVdWMybDBaU0E9", "ZDNkd1lteHBMbmwxZVhWbExtWmhhWFJv"]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVqTTJNRGQzYWc9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVqTTJNRGRhTmc9PQ==", "Y0dod2RIWm9heTV6Y0hWcWNXeHhhaTV0YkE9PQ=="]
+                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVqTTJNRGQzYWc9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVqTTJNRGRhTmc9PQ==", "WldSeGNub3VabkZ2WW5WcExtZGg="]
                }, 
 
     "article": { "name": "最新文章", 
