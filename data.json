@@ -1,24 +1,24 @@
  {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WTJwa2RHWnpkblo0TG5oeWJtUmxkMnN1WTJZPQ==", "WVhkb2RtNHVjM3A2Wkc5bllYUmxMbk5wZEdVZw==", "WTJwa2RHWnpkblo0TG5oeWJtUmxkMnN1WTJZPQ=="],
-                 "fq": "WTJwa2RHWnpkblo0TG5oeWJtUmxkMnN1WTJZPQ=="
+                 "value": [ "YUdobGVHVnNkMngwTG5oeWJtUmxkMnN1WTJZPQ==", "Y21GdFpXUjJjR1ZtYnk1emVucGtiMmRoZEdVdWMyTnBaVzVqWlNBPQ==", "YUdobGVHVnNkMngwTG5oeWJtUmxkMnN1WTJZPQ=="],
+                 "fq": "YUdobGVHVnNkMngwTG5oeWJtUmxkMnN1WTJZPQ=="
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOVNNMDlRUjJ4SA==", "ZEM1amJpOVNNMDlRTVRSSQ==", "ZEM1amJpOVNNMDlRY0RSSA=="]
+                 "value": [ "ZEM1amJpOVNNMDlRVWt0TA==", "ZEM1amJpOVNNMDlRUXpKeg==", "ZEM1amJpOVNNMDlRYzBveQ=="]
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "ZEM1amJpOVNNMDk2V1hCNA==", "ZEM1amJpOVNNMDlhUjJkNA==", "ZEM1amJpOVNNMDk2V1hCbQ=="]
+                 "value": [ "ZEM1amJpOVNNMDk2YlZZeA==", "ZEM1amJpOVNNMDlhVEdwUw==", "ZEM1amJpOVNNMDlhVlV4Qg=="]
                }, 
   "fo04url": { "name": "fo04",
                  "value": [ "TXpZdU1qTXpMamN6TGpFM013PT0=", "TVM0eE56QXVPVEV1TlRRPQ==", "TXpZdU1qTXpMamN6TGpFM013PT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpFNUxqZzFMakV3Tmk0eE1nPT0=", "ZEc1cGRHTXVjM3A2Wkc5bllYUmxMbk5qYVdWdVkyVWc=", "WjJGM2RYUmphVzB1ZVhWNWRXVXVabUZwZEdnPQ=="]
+                 "value": [ "QUE9PQ==", "ZW5waFltMHVjM3A2Wkc5bllYUmxMbk5qYVdWdVkyVWc=", "Y1doNmIyVm9hR0Z0TG1oMWFXZDFhUzVpYVdRPQ=="]
                },
  "ogColl": { "name": "网门",
-                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVqTlVOVXBzYmc9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVqTlVOVXBzYmc9PQ==", "Ym5CaWQzQnVMbVJtWlhScVoyWnFMbU5t"]
+                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVqTlVOVXBzYmc9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVqTlVOVXBzYmc9PQ==", "YW5ac1pHaHhjR0l1Y1hWeGMyOXplaTV0YkE9PQ=="]
                }, 
 
     "ogate" :  { "name": "网门动态网址",
