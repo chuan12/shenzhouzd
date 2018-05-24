@@ -1,7 +1,7 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "ZW1Kb1kydHpjaTU0ZVdSa2F5NXRiQT09", "ZUcxa2VHUmlheTV2YjJzdWMyTnBaVzVqWlE9PQ==", "ZW1Kb1kydHpjaTU0ZVdSa2F5NXRiQT09"],
-                 "fq": "ZW1Kb1kydHpjaTU0ZVdSa2F5NXRiQT09"
+                 "value": [ "Y1cxaGJXbDZjeTU0ZVdSa2F5NXRiQT09", "YUdsdWQyRnpMblJwWVc1NWFTNWtiM2R1Ykc5aFpBPT0=", "Y1cxaGJXbDZjeTU0ZVdSa2F5NXRiQT09"],
+                 "fq": "Y1cxaGJXbDZjeTU0ZVdSa2F5NXRiQT09"
                },
                
    "shorturl": { "name": "短网址", 
@@ -15,10 +15,10 @@ var feed_data = {
                  "value": [ "TVM0eE5qVXVNVEEzTGpJd01RPT0=", "TVRJMUxqSXpNUzR4TVRrdU1UWTA=", "TVM0eE5qVXVNVEEzTGpJd01RPT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpFNUxqZzFMakV3T0M0eU1EUT0=", "YzNwdmMzWXVjbVZ1ZVdrdVptRnBkR2c9", "WVhkaFlYWmtabWRpTG5ONmVtUnZaMkYwWlM1aWFXUT0="]
+                 "value": [ "TWpFNUxqZzFMakV3T0M0eU1EUT0=", "ZUc1dWFtcHdMbk5oZG1WNWIzVXViV1Z1", "Wm1acGJIcDZkeTV6ZW5wa2IyZGhkR1V1YldWdQ=="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOVNNVGRKVEU5cQ==", "ZEM1amJpOVNNVGRKVEU5cQ==", "Wm5GNVkzWnZMbkp6YjJ0MWRYUjRMbWR4"]
+                 "value": [ "ZEM1amJpOVNNVGRKVEU5cQ==", "ZEM1amJpOVNNVGRKVEU5cQ==", "YUd4a2EybG5MbVJ5YkhwdmNuRXViV3c9"]
                }, 
 
     "article": { "name": "最新文章", 
