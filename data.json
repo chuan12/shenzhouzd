@@ -1,6 +1,6 @@
  {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "ZW14NGIyZ3VhbkZqZFhCc1l5NW5ZUT09", "ZEdONGNuRmpZbVl1WjJ4aFpHZHBablF1Y21WMmFXVjM=", "ZW14NGIyZ3VhbkZqZFhCc1l5NW5ZUT09"],
+                 "value": [ "ZW14NGIyZ3VhbkZqZFhCc1l5NW5ZUT09", "ZG1OcGJtdHFMbVpoWkhVdVptRnBkR2c9", "ZW14NGIyZ3VhbkZqZFhCc1l5NW5ZUT09"],
                  "fq": "ZW14NGIyZ3VhbkZqZFhCc1l5NW5ZUT09"
                },
                
@@ -15,10 +15,10 @@
                  "value": [ "TXpZdU1qTXpMamt3TGpJek5BPT0=", "TXpZdU1qTXpMalkyTGpJeE9BPT0=", "TXpZdU1qTXpMamt3TGpJek5BPT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpFNUxqZzFMakV3T0M0eU1qUT0=", "YzJkMWNHWXVaVzVrWlM1aWFXUT0=", "WVdadFpubG1jSGxrTG5ONmVtUXVjSEpsYzNNPQ=="]
+                 "value": [ "TWpFNUxqZzFMakV3T0M0eU1qUT0=", "YjJSd2FYZG5keTVoYkd4bWIzSjViM1V1YzJOcFpXNWpaUT09", "YW5oaGRtVXVjM3A2WkdOa2JpNXlaWFpwWlhjZw=="]
                },
  "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOVNNVWxMVUROcw==", "ZEM1amJpOVNNVWxMVUROcw==", "WjJGd2RIWnpkUzV2ZEhoNGJXaHliUzVuWVE9PQ=="]
+                 "value": [ "ZEM1amJpOVNNVWxMVUROcw==", "ZEM1amJpOVNNVWxMVUROcw==", "YkhCaWNHNTJlV011ZEdsMGFHMWxZMkl1WjNFPQ=="]
                }, 
 
     "ogate" :  { "name": "网门动态网址",
