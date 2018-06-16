@@ -1,24 +1,24 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WTJ4bmRHcG9kM1F1WW1WeVpteDNMbTFz", "YTNOdWRXeHhiSE5xTG14MGEybHJMbWRo", "ZW10bFlXTm5MbWhoZEc5MmIzbDVMbWRo"],
-                 "fq": "YldGd2RtSnNMbVY2Y0hSaUxtZHg="
+                 "value": [ "YzNsNVlXeDFaV2N1WVdObFkzWm1MbWRo", "WW10bGVXNHVhWEp3Y0hackxtZHg=", "Wm14NmNXWnlZM0J3TG1SdmIyRjFhbVIxTG1keA=="],
+                 "fq": "WlhadVlYbHllaTVrYVhWbGIzUnZMbWRo"
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOVNRbTlIY0ROTg==", "ZEM1amJpOVNRbTlIT1dreA==", "ZEM1amJpOVNRbTlIZURWWQ=="]
+                 "value": [ "ZEM1amJpOVNRbTl4VEZKRA==", "ZEM1amJpOVNRbTlIUkVGYQ==", "ZEM1amJpOVNRbTlIY0ROSg=="]
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "ZEM1amJpOVNRbTloU0hkcg==", "ZEM1amJpOVNRbTlZTmxKVQ==", "ZEM1amJpOVNRbTloTW5ndw=="]
+                 "value": [ "ZEM1amJpOVNRbTlLYlVWdw==", "ZEM1amJpOVNRbTgyYlZsRA==", "ZEM1amJpOVNRbTlZYjJseA=="]
                }, 
   "fo04url": { "name": "fo04",
                  "value": [ "TVM0eE56QXVPVE11TVRFNA==", "TVRJMUxqSXpNUzR4TVRJdU9EVT0=", "TVM0eE56QXVPVE11TVRFNA=="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpFNUxqZzFMakV3T0M0eU1BPT0=", "TmpFdU1qSTRMakU0TUM0eU53PT0=", "WW5WdFkyb3VkMmR0WTJodUxtZHg="]
+                 "value": [ "TWpFNUxqZzFMakV3T0M0eU1BPT0=", "TmpFdU1qSTRMakU0TUM0eU53PT0=", "YjI5dmQyWm9lR2h1TG1WNmNIUmlMbWR4"]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOVNRazl4TkdKWQ==", "ZEM1amJpOVNRazl4TkdKWQ==", "ZDNWNWRITnJMbU5yY1dKcWRDNW5ZUT09"]
+                 "value": [ "ZEM1amJpOVNRazl4TkdKWQ==", "ZEM1amJpOVNRazl4TkdKWQ==", "ZUc1eGNXZGpabUl1YUdWbWMyRjNMbU5t"]
                }, 
 
     "article": { "name": "最新文章", 
