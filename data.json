@@ -1,24 +1,24 @@
  {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkROdWIzWXhOekl5T1dRM09YY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkdReWRucG9hWFZ4ZEdkdWNpNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkROdWIzWXhOekl5T1dRM09YY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
-                 "fq": "WkRKbWVHcG9NREl5TWpSNGNXUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
+                 "value": [ "WkdReWRucG9hWFZ4ZEdkdWNpNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkROeE9UbDNlV05yZURCeGNtOHVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKbWVHcG9NREl5TWpSNGNXUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
+                 "fq": "WkRKMGN6ZDJOWFZ0ZUdjMmNYWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOVNRbTlIUkVGTQ==", "ZEM1amJpOVNRbTlIT1dreA==", "ZEM1amJpOVNRbTl4UjNOeQ=="]
+                 "value": [ "ZEM1amJpOVNRbTlIUkVGTQ==", "ZEM1amJpOVNRbTlIT1dreA==", "ZEM1amJpOVNRbTl4TkUxbg=="]
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "ZEM1amJpOVNRbTlZZG1oag==", "ZEM1amJpOVNRbTlwVW10aw==", "ZEM1amJpOVNRbTloTW5oTA=="]
+                 "value": [ "ZEM1amJpOVNRbTlwY2xacw==", "ZEM1amJpOVNRbTlTYm1zNQ==", "ZEM1amJpOVNRbTgyVGtSdw=="]
                }, 
   "fo04url": { "name": "fo04",
                  "value": [ "TXpZdU1qTXpMalF6TGpFMU5nPT0=", "TXpZdU1qTXpMakV5T1M0Mk1BPT0=", "TXpZdU1qTXpMalF6TGpFMU5nPT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpFNUxqZzFMakV4TVM0eE16TT0=", "TmpFdU1qSTRMakl4TWk0Mw==", "WkROeWNXSndaVFY0Wm1zeWVtWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
+                 "value": [ "TmpFdU1qSTRMakU1TUM0Mk1RPT0=", "TmpFdU1qSTRMakl3T1M0MU9BPT0=", "WkROeFl6UmhkbWR4TkhaeWEyY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
                },
  "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOVNaM2xVVG1SRw==", "ZEM1amJpOVNaM2xVVG1SRw==", "YkdwM2NtZDBMblIxWjNSa2QyUm5MbU5t"]
+                 "value": [ "ZEM1amJpOVNaM2xTZVZkTQ==", "ZEM1amJpOVNaM2xTZVZkTQ==", "ZUdkeVlXVXVjbk52YTNWMWRIZ3VaM0U9"]
                }, 
 
     "ogate" :  { "name": "网门动态网址",
