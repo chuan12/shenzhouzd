@@ -1,24 +1,24 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkROMGF6UnJZakI2Tm05M01qQXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRFelpuRndabXB0TVhkbk9Hb3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKdU4yaHZOalZ4TjNSbWIyOHVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
-                 "fq": "WkRFNGVYcHFjWGgyYVhwMGNta3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
+                 "value": [ "WkRKdU4yaHZOalZ4TjNSbWIyOHVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKbE1qaDRibmx4ZEhwallUWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGdk5HZHBabmcwTW5aNWVIUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
+                 "fq": "WkRKcWJtVjNiM3AzYW1wMGNHSXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOVNaM05DWTJwcA==", "ZEM1amJpOVNaM05DY1V0SA==", "ZEM1amJpOVNaM05DUVRNeg=="]
+                 "value": [ "ZEM1amJpOVNaM05DUjBwaQ==", "ZEM1amJpOVNaM05DZVcxUw==", "ZEM1amJpOVNaM05DVUhKVw=="]
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "ZEM1amJpOVNaM05rYUhkaA==", "ZEM1amJpOVNaM05rVm1kRw==", "ZEM1amJpOVNaM05rTkhSTg=="]
+                 "value": [ "ZEM1amJpOVNaM05rY1Zscw==", "ZEM1amJpOVNaM05rVlRReA==", "ZEM1amJpOVNaM05rZG0weg=="]
                }, 
   "fo04url": { "name": "fo04",
                  "value": [ "TXpZdU1qTXpMalEwTGpFMk9BPT0=", "TVRJMUxqSXpNUzR4TXpndU16ST0=", "TXpZdU1qTXpMalEwTGpFMk9BPT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TmpFdU1qSTRMakl5TUM0eE5UVT0=", "TmpFdU1qTXdMakl6TGpJME1RPT0=", "WkRGa2FHczRhbTAyYnpRNWJYTXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
+                 "value": [ "TWpjdU1UQTFMak00TGpJeE1RPT0=", "TmpFdU1qTXdMakl6TGpJME1RPT0=", "WkRKNmNXRjBZbmwyTW5GelpXZ3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOVNaVTB6UVZJeg==", "ZEM1amJpOVNaVTB6UVZJeg==", "WTNKbGNtOXRkeTV4ZFd4NWJpNXRiQT09"]
+                 "value": [ "ZEM1amJpOVNaVTB6UVZJeg==", "ZEM1amJpOVNaVTB6UVZJeg==", "ZW1GaGNXTnhMbWh1WjJ4dWRHZDFMbU5t"]
                }, 
 
     "article": { "name": "最新文章", 
