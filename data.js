@@ -1,24 +1,24 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkRObmMzaG9ialoxZG1SdE4yd3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKaGVHVmhNakJoTUROMll6Y3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGNmRHUjFhekpvYW5NeVkzUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
-                 "fq": "WkRJemFtRnpPWGd6Y1c5eWJDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="
+                 "value": [ "WkRJNGF6QXdjakEwZHpRNGMyWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKNE16TmxjbnB2ZUd4dmIySXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkROaloybHVORE40WWpCaE4yVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
+                 "fq": "Wkd0aE4yaGhjWFJtTWpGc0xtTnNiM1ZrWm5KdmJuUXVibVYw"
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOVNSRVU0Y2pWSg==", "ZEM1amJpOVNSRVU0Y2tGNQ==", "ZEM1amJpOVNSRVU0UW1zeQ=="]
+                 "value": [ "ZEM1amJpOVNSRVU0UW10TQ==", "ZEM1amJpOVNSRVU0UW1zMA==", "ZEM1amJpOVNSRVU0Y2tGTQ=="]
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "ZEM1amJpOVNaM05rZVZwMQ==", "ZEM1amJpOVNaM05rWXpGMg==", "ZEM1amJpOVNaM055UkRGRw=="]
+                 "value": [ "ZEM1amJpOVNaM05rUnpabQ==", "ZEM1amJpOVNaM05rUnpabQ==", "ZEM1amJpOVNaM05rZVZveg=="]
                }, 
   "fo04url": { "name": "fo04",
                  "value": [ "TVRFMExqSTFMakV4TkM0eE56WT0=", "TVRFMExqSTBMamd5TGpFek5BPT0=", "TVRFMExqSTFMakV4TkM0eE56WT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpFNUxqZzFMamszTGprMA==", "TmpFdU1qSTRMakU0Tmk0eE1URT0=", "WkROb2IybHVlamc1ZFdremFXZ3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
+                 "value": [ "TWpFNUxqZzFMamszTGprMA==", "TmpFdU1qSTRMakU0Tmk0eE1URT0=", "WkRKMmJIaGhOSEJqZW5GM00yWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOVNSRzVJWnpoRQ==", "ZEM1amJpOVNSRzVJWnpoRQ==", "Y0dwNWVuRXVkMlZ2WTJKbkxtTm0="]
+                 "value": [ "ZEM1amJpOVNSRzVJWnpoRQ==", "ZEM1amJpOVNSRzVJWnpoRQ==", "WjJScGMzcDRieTU1ZDJGbFptc3VZMlk9"]
                }, 
 
     "article": { "name": "最新文章", 
