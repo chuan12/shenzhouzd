@@ -1,24 +1,24 @@
  {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkdOdVkzWmhPR0ZpZFRWNWNDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkROa01tbGliM0JtYTJJeGNuQXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRJeGJ6WTRiakp5TUdKb2VtVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
+                 "value": [ "WkRNeWRtbzFjWGQxWkdaNGJtVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRSc2RXTm1iM2N3YjNOc055NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRJeGJ6WTRiakp5TUdKb2VtVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
                  "fq": "WkROME9USTFhV1oyZDI0elpYTXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOUZVRUpqUTJsTw==", "ZEM1amJpOUZVRUpqUTBKSA==", "ZEM1amJpOUZVRUpqVG5wdw=="]
+                 "value": [ "ZEM1amJpOUZVRUpqUTBKSA==", "ZEM1amJpOUZVRUpqVG5wdw==", "ZEM1amJpOUZVRUpqUTFWVA=="]
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "ZEM1amJpOUZVRUpqUTJ4eQ==", "ZEM1amJpOUZVRUpqUTJsVQ==", "ZEM1amJpOUZVRUpqVG5wTw=="]
+                 "value": [ "ZEM1amJpOUZVRUpqUTJsVQ==", "ZEM1amJpOUZVRUpqUTBKTQ==", "ZEM1amJpOUZVRUpqUTFWaA=="]
                }, 
   "fo04url": { "name": "fo04",
                  "value": [ "TVRFMExqSTFMakV6TkM0MU1nPT0=", "TVM0eE5qTXVPVEV1TVRNMQ==", "TVRFMExqSTFMakV6TkM0MU1nPT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpFNUxqZzFMakV3TkM0ek9RPT0=", "ZEhaaWJtdDRMblJsYkd4MGNuVmxMbk5qYVdWdVkyVT0=", "WkRNNGNYRjNZbVp1WmpWeFkyZ3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
+                 "value": [ "TWpFNUxqZzFMakV3TkM0eU9BPT0=", "Y21salptOTRMbWhoYjJRdWJXVnU=", "WkRObVozVnRPRE16TldOeE1Xa3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
                },
  "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOVNjMW8yVkZsUQ==", "ZEM1amJpOVNjMXA1U1U1NQ==", "WTJ4NmJHeHpkMmN1YldSMGRuRXVaMkU9"]
+                 "value": [ "ZEM1amJpOVNjMW8yTmpONg==", "ZEM1amJpOVNjMXA1TkU1NA==", "Y0dSMGNuTnRiVzR1WkdOa1puVnFjV3d1WjNFPQ=="]
                }, 
 
     "ogate" :  { "name": "网门动态网址",
