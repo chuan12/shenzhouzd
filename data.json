@@ -1,7 +1,7 @@
  {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkRNNE1uRjVkMnRqTm10cU1Xb3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGaWIyWXlaSEV4Yld0eGJHb3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGbFpIQnVNbTE0YUdsclkyRXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
-                 "fq": "WkRNNE1uRjVkMnRqTm10cU1Xb3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
+                 "value": [ "WkRKb1pXMHplREpyYXpoMGVYTXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkdWb09XbG1lbk50WkhweGNpNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRJd2NERmhaR3BwZFRaMWREQXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
+                 "fq": "WkROcmVXb3hhM2M1Wkhodlkyc3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
    "shorturl": { "name": "短网址", 
@@ -15,10 +15,10 @@
                  "value": [ "TVRFMExqSTFMakV6TVM0eU5Eaz0=", "TVRFNExqRTJPQzR5TVRBdU1URTI=", "TVRFMExqSTFMakV6TVM0eU5Eaz0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpFNUxqZzFMakV3TlM0Mk13PT0=", "WW1sb2RYRXVZV3hzWm05eWVXOTFMbk5qYVdWdVkyVT0=", "WkRGallXMHhhSGRvZW1wbE56UXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
+                 "value": [ "TmpFdU1qSTRMakU0TUM0eU1EWT0=", "Y0dkd2MzcG1hMlY2Y1M1bGJtUmxMbUpwWkE9PQ==", "WkRJNU9IWjBiak52ZUd0M1l6WXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
                },
  "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOVNjMW8yYmxWVw==", "ZEM1amJpOVNjMXA1Tm01bQ==", "ZEc5MFlYTjVZeTVvYzJGaVpHaDVMbTFz"]
+                 "value": [ "ZEM1amJpOVNjMXBZUVRscw==", "ZEM1amJpOVNjMXA1YzBkcg==", "WlhkcGEzRnJaSFF1YUhOaFltUm9lUzV0YkE9PQ=="]
                }, 
 
     "ogate" :  { "name": "网门动态网址",
