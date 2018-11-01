@@ -1,24 +1,24 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkRFNWVUTTBZM2RqTjNjek16a3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRJNFkzZ3haR1JvTjJJd05EUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGdFlqUnJiWFZtYTNFMGRYY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
-                 "fq": "WkRGMGFUWTNPSEo1YldNMmFURXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
+                 "value": [ "WkROd2VIRTVhR3BwZURadWJuTXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGNWVXMTVabVpuZURSbk5qRXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "Wkhjd056Z3haVEF5YjJjeE55NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="],
+                 "fq": "WkRNeU1YRm5lWFp6YlhVek16SXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOUZkMGRwWW01Rw==", "ZEM1amJpOUZkMGRwWW5Zdw==", "ZEM1amJpOUZkMGRwTkVWcQ=="]
+                 "value": [ "ZEM1amJpOUZkMGRwWW01Rw==", "ZEM1amJpOUZkMGRwWWtORg==", "ZEM1amJpOUZkMGRwTkVWcQ=="]
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "ZEM1amJpOUZkMGRwWWpWYQ==", "ZEM1amJpOUZkMGRwWWtOQw==", "ZEM1amJpOUZkMGRwWWpWYQ=="]
+                 "value": [ "ZEM1amJpOUZkMGRwWW5aUA==", "ZEM1amJpOUZkMGRwWW01eg==", "ZEM1amJpOUZkMGRwWWpWYQ=="]
                }, 
   "fo04url": { "name": "fo04",
                  "value": [ "TVRFNExqRTJNUzR4TnpJdU1UTXo=", "TVRFeExqSTBNUzQxTkM0eE1ETT0=", "TVRFNExqRTJNUzR4TnpJdU1UTXo="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TmpFdU1qSTRMakl4Tmk0eU5EYz0=", "YW5acGNtY3VjbTl1WjNsMUxtMWxiZz09", "WkRObVpYaG1iR293ZFdNNE9YRXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
+                 "value": [ "TWpFNUxqZzFMakV3TWk0eU16Yz0=", "YkcxaVlXaDNjUzVrWVdSMUxtMWxiZz09", "WkRGelptSnJZbmR5ZUdOc2QyNHVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxVEZkaQ==", "ZEM1amJpOUZlbkZ1VFVoRw==", "ZUdGNlpuWjNkblF1ZVhadGFtMTZMbWR4THpZNA=="]
+                 "value": [ "ZEM1amJpOUZlbkZxUTFabA==", "ZEM1amJpOUZlbkZ1YjFGaA==", "YTNCM2MyRnZheTVwYjJONWNDNW5ZUzgyT0E9PQ=="]
                }, 
 
     "article": { "name": "最新文章", 
@@ -30,12 +30,11 @@ var feed_data = {
                           ]
                },
                
-     "video":  { "name": "精彩视频", 
+   "video":  { "name": "精彩视频",
                  "value": [
-                           { "title": "是自焚还是骗局", "url": "/73" },
-                           { "title": "古今奇观-藏字石", "url": "/74" },
-                           { "title": "【九评之一】评共产党是什么", "url": "/75" },
-                           { "title": "更多影音...", "url": "/video" }
+                           { "title": "天国乐团", "url": "/video/play/1094.html" },
+                           { "title": "共产主义的终极目的", "url": "/video/play/1035.html" },                     
+                           { "title": "更多影音...", "url": "/video/" }
                           ]
                },
                
