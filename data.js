@@ -1,24 +1,24 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkhneVpERTBjall3TkdJeVl5NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkhneVpUQTFhRGxsTjNVNGRDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRkaWVXdDBNbWxsWW5aNmVpNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="],
-                 "fq": "WkRGNlpqQm5aeko0TTJGd2FXUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
+                 "value": [ "WkRObFpqUjJiSFEwYldKM01uWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKaWFIWTFOamxsYmpnNWVHWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "Wkhkbk1HMDRaelZ3ZG5GeVpTNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="],
+                 "fq": "WkRNNGEycDRiWFIyWjJJeE16WXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOUZURnBXYW1wMA==", "ZEM1amJpOUZURnBXYW1wMA==", "ZEM1amJpOUZURnBXV1hwYQ=="]
+                 "value": [ "ZEM1amJpOUZURlZsZEdGbQ==", "ZEM1amJpOUZURlZsZEdGbQ==", "ZEM1amJpOUZURlZsZEhkaw=="]
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "ZEM1amJpOUZURnBXYW1wSA==", "ZEM1amJpOUZURnBXYW1wSA==", "ZEM1amJpOUZURnBXV1hwUQ=="]
+                 "value": [ "ZEM1amJpOUZURlZsZEVWMQ==", "ZEM1amJpOUZURlZsZEVWMQ==", "ZEM1amJpOUZURlZsZEdNeQ=="]
                }, 
   "fo04url": { "name": "fo04",
                  "value": [ "TVRFMExqSTFMakV4T1M0eU53PT0=", "TVRFNExqRTJNUzR5TVRrdU1UVXo=", "TVRFMExqSTFMakV4T1M0eU53PT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TmpFdU1qSTRMakl4Tnk0eE1qST0=", "YVhGM2EzSnRMblJ5ZFhOMGFHVmhjblF1Wm1GcGRHZz0=", "WkRJMGRucDVjM0YzTUhneVlqQXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
+                 "value": [ "TmpFdU1qSTRMakl4T0M0NE5BPT0=", "ZDJ4d2NtaGlMbk5oZG1WNWIzVXViV1Z1", "WkROaGNYZHVNMjAwT1hOaGRtRXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxYWxOeg==", "ZEM1amJpOUZlbkZ1Y1ZoQg==", "YkdGbFkyY3VjWFZ4YzI5emVpNXRiQzgyT0E9PQ=="]
+                 "value": [ "ZEM1amJpOUZlbkZxTVZKTQ==", "ZEM1amJpOUZlbkZ1VTFWSQ==", "Y21OMGJHOWpMbXh4Y0dGMWRpNWpaaTgyT0E9PQ=="]
                }, 
 
     "article": { "name": "最新文章", 
@@ -32,8 +32,8 @@ var feed_data = {
                
    "video":  { "name": "精彩视频",
                  "value": [
-                           { "title": "新唐人中国频道", "url": "/v.php?code=dd1b02256bc71e13f28d8edce431e2e7893de51fb7fe2b91dc48f19cf8fe9bb3c245c3fa143836f557b11e2e8fb46b261957c4c352ee17cf4824071251be8b6cdcdc23b66e1bf9cb79eed96373ea719703deae72" },
-                           { "title": "新唐人美东台", "url": "/v.php?code=9d4a0249c02be0a6ae9b6f9d266d6d1398e037466070ad85325dad6682fc1e3bf5eb556119beb26a34e3c7e51dcb4dd57a1834c28b34757cbefbb9e49c5e63865093346b4f1d3edf08c1c4fea4869bfa68cf2b471d190304c3fc" },         
+                           { "title": "新唐人中国频道", "url": "/v.php?id=ntd"},
+                           { "title": "新唐人亚太台", "url": "/v.php?id=ntd-mlt"},
                            { "title": "天国乐团", "url": "/video/play/1094.html" },
                            { "title": "共产主义的终极目的", "url": "/video/play/1035.html" },                   
                            { "title": "更多影音...", "url": "/video/" }
