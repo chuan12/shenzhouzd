@@ -1,7 +1,7 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkRJMlpHUmljaloyZUdwME5tSXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRJeGFEbHJjbVE0TVhKb2JXY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRJMWNqVjZlVFptYlRFM2NIZ3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
-                 "fq": "WkRKbWQyeHRZbTgzY21WaE1XUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
+                 "value": [ "WkROM01XOTNiR2xuWlcxdU1Ua3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkhjeE5HNWpkbkl5Tm5KM01TNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkROeWMyNXdjRzlqTjNneU1IVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
+                 "fq": "WkRJeFpEZDNNVzF2T0hSNk0zb3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
    "shorturl": { "name": "短网址", 
@@ -15,10 +15,10 @@ var feed_data = {
                  "value": [ "TVRFMExqSTFMakV5T1M0M01RPT0=", "TVRFMExqSTFMakV5T1M0Mk1nPT0=", "TVRFMExqSTFMakV5T1M0M01RPT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpFNUxqZzFMamszTGpReA==", "Y0hWeWRuZDVaV3RpY0M1MGNuVnpkR2hsWVhKMExtWmhhWFJv", "Wkc5bVltWTJaV04zYW1Kc1pTNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="]
+                 "value": [ "TmpFdU1qSTRMakl5TXk0eU1nPT0=", "YVhkb2JHdDViSEF1ZEdWc2JIUnlkV1V1YzJOcFpXNWpaUT09", "WkROd2NERXdaSHByYUdRemVHd3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxTVZKSA==", "ZEM1amJpOUZlbkZ1T1dwYQ==", "Y0haaWNXUnFlV291Y1dsamIzcDRMbWRoTHpZNA=="]
+                 "value": [ "ZEM1amJpOUZlbkZxYUdveA==", "ZEM1amJpOUZlbkZGYTFFNQ==", "WldsamFYUndlUzVoZUdKcGVYTnphUzV0YkM4Mk9BPT0="]
                }, 
 
     "article": { "name": "最新文章", 
@@ -85,7 +85,7 @@ var feed_data = {
                  "url": "https://git.io/fxNjC",
                  "sha1": "C9F91E8AD1917C7607BD3188E48FB39D7C41BDF6",
                  "sha512": "0470bedc279da85fb7ec1553c0ca8b5db2a78012276ba20bcc69dd611427c4c52443e6c9c3216fb63e6dfcb802c72a30b6c6632648bfe175de3a8a380f80cefa",
-                 "time": "1545294916"
+                 "time": "1545294980"
                } 
      
  }     
