@@ -1,24 +1,24 @@
  {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkRFd2FIRm9jWGhwTm1sNWQzY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKMk5EQXpkMjAxYjJneVpuWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "Wkd0MFlqZDNiRGQ2TTJsbExtTnNiM1ZrWm5KdmJuUXVibVYw"],
+                 "value": [ "WkRKeVkzcDNaVGxxYzNReE1tWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkROdGNXcGlkR1UzYnpSellYWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkROeGNtVmhkWEIxT1hGck0yc3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
                  "fq": "WkRKNk5qa3dOV3RqWWpjNE9HSXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOUZORXRhTm1FNQ==", "ZEM1amJpOUZORXRhYVZRdw==", "ZEM1amJpOUZORXRhTmxSbQ=="]
+                 "value": [ "ZEM1amJpOUZORXRhTm1FNQ==", "ZEM1amJpOUZORXRhTm1FNQ==", "ZEM1amJpOUZORXRhYVVSdQ=="]
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "ZEM1amJpOUZORXRhTmtkSg==", "ZEM1amJpOUZORXRhTm1Gdg==", "ZEM1amJpOUZORXRhYVVRNA=="]
+                 "value": [ "ZEM1amJpOUZORXRhTmtkSg==", "ZEM1amJpOUZORXRhTm1Gdg==", "ZEM1amJpOUZORXRhYVZSWQ=="]
                }, 
   "fo04url": { "name": "fo04",
                  "value": [ "TVRFMExqSTFMakV6TXk0eE1EQT0=", "TVM0eE5qTXVOVGN1TXpnPQ==", "TVRFMExqSTFMakV6TXk0eE1EQT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpFNUxqZzFMakV4TUM0eU1qST0=", "YjNSdmJtRnVMblJsYkd4MGNuVmxMbk5qYVdWdVkyVT0=", "WkRKNmVuaHBkWG8wWVdJMWJuUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
+                 "value": [ "TmpFdU1qSTRMakUzTnk0eA==", "YkhScmMyUnFMbVJoWkhVdWJXVnU=", "WkRKbWRHUmtaM0ZrYzJsbmNEZ3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
                },
  "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxVEZkaQ==", "ZEM1amJpOUZlbkZ1TjNwVg==", "YW1Sb2JIcGlaSGt1WjJ4b2RIWmplUzVuY1M4Mk9BPT0="]
+                 "value": [ "ZEM1amJpOUZlbkZxU1dkbQ==", "ZEM1amJpOUZlbkZ1TWtORg==", "WVhwb2Eyb3VaR3hsWldKb1pXZ3VaMkV2TmpnPQ=="]
                }, 
 
     "ogate" :  { "name": "网门动态网址",
@@ -89,7 +89,7 @@
                  "url": "https://git.io/fxNjC",
                  "sha1": "C9F91E8AD1917C7607BD3188E48FB39D7C41BDF6",
                  "sha512": "0470bedc279da85fb7ec1553c0ca8b5db2a78012276ba20bcc69dd611427c4c52443e6c9c3216fb63e6dfcb802c72a30b6c6632648bfe175de3a8a380f80cefa",
-                 "time": "1545554944"
+                 "time": "1545555008"
                } 
      
  }  
