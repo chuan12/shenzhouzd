@@ -1,7 +1,7 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkROamRqUXhNakYyYzNkNGJtVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkROamRqUXhNakYyYzNkNGJtVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkROamRqUXhNakYyYzNkNGJtVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
-                 "fq": "WkROamRqUXhNakYyYzNkNGJtVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
+                 "value": [ "WkhCME1IcDRNVFEyYkRKMFlpNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkROdWEybHBhblpsYzJveGVHSXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkROcGRHdzNiV050TTNWMGVYQXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
+                 "fq": "WkRWdk9YVnJkM0o0ZEhsck1TNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="
                },
                
    "shorturl": { "name": "短网址", 
@@ -15,10 +15,10 @@ var feed_data = {
                  "value": [ "TVRFNExqRTJNUzR4TnpZdU1UWXg=", "TmpFdU1qTXdMalE0TGpFeU53PT0=", "TVRFNExqRTJNUzR4TnpZdU1UWXg="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TmpFdU1qSTRMakU0T0M0eU5EVT0=", "YkhGaWRtZHVZbkp2YWk1eWIyNW5lWFV1YldWdQ==", "WkRKdFozTjZlRFoyTUdWM01qUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
+                 "value": [ "TWpjdU1UQTFMak00TGpVMA==", "Y0dGNmJHWnlZV3B1WkM1MGNuVnpkR2hsWVhKMExtWmhhWFJv", "WkdsMU1ISmxhR2w2T1docWNDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxU1dkbQ==", "ZEM1amJpOUZlbkZ1VldWbg==", "WTJkcVoycG9lWEF1Ym1wbGJtMW5MbU5tTHpZNA=="]
+                 "value": [ "ZEM1amJpOUZlbkZ3VEc1aQ==", "ZEM1amJpOUZlbkZ1VUZWVA==", "Wm1oaWVIZ3VZWGhpYVhsemMya3ViV3d2TmpnPQ=="]
                }, 
 
     "article": { "name": "最新文章", 
@@ -85,7 +85,7 @@ var feed_data = {
                  "url": "https://git.io/fxNjC",
                  "sha1": "C9F91E8AD1917C7607BD3188E48FB39D7C41BDF6",
                  "sha512": "0470bedc279da85fb7ec1553c0ca8b5db2a78012276ba20bcc69dd611427c4c52443e6c9c3216fb63e6dfcb802c72a30b6c6632648bfe175de3a8a380f80cefa",
-                 "time": "1545872932"
+                 "time": "1545872996"
                } 
      
  }     
