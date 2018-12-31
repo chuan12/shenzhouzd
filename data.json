@@ -1,7 +1,7 @@
  {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkRKNmJqVmhNblJoWjIxa05UZ3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkROMGNERTNibVY0WVdFd2VuZ3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "Wkc5MGNuQm9kelE0ZDNaeGFDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="],
-                 "fq": "WkRGMWVXNTFjR296WlhaeE5Ya3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
+                 "value": [ "WkRKdGNXZzFaMjlyZDJ4d1ptNHVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "Wkc5MGNuQm9kelE0ZDNaeGFDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkdsdGNHVjZabTVrYWpCcVppNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="],
+                 "fq": "WkRGcFpXWXhZVEoxYzI5dE4yY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
    "shorturl": { "name": "短网址", 
@@ -9,16 +9,16 @@
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "ZEM1amJpOUZZakJSTW0xWQ==", "ZEM1amJpOUZZakJSZVVwMw==", "ZEM1amJpOUZZakJSVEhOTQ=="]
+                 "value": [ "ZEM1amJpOUZZakJSVEhCWA==", "ZEM1amJpOUZZakJSTW0xWQ==", "ZEM1amJpOUZZakJSVEhsbg=="]
                }, 
   "fo04url": { "name": "fo04",
                  "value": [ "TVRFMExqSTFMakV4T1M0eE1EYz0=", "TVRFNExqRTJNUzR4TnpFdU1URTQ=", "TVRFMExqSTFMakV4T1M0eE1EYz0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpjdU1UQTFMak0yTGpZeA==", "Y1dadmNXOTVhWGN1ZEdWc2JIUnlkV1V1YzJOcFpXNWpaUT09", "WkhGbk9UTnRkMlptTkhOeWNDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="]
+                 "value": [ "TmpFdU1qSTRMakl4TWk0eU16RT0=", "YkdsbWNHOWtkWEp1ZUM1bllXOXlaVzR1Y21WMmFXVjM=", "WkRKallUVjJjbmhsZHprMGJqWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
                },
  "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxU1dkTg==", "ZEM1amJpOUZlbkZ1V0ZRMg==", "ZVdobFpXZ3VjMnh0ZDNOcWVtUXVaM0V2TmpnPQ=="]
+                 "value": [ "ZEM1amJpOUZlbkZ3VUdWTg==", "ZEM1amJpOUZlbkZ1VldWeQ==", "YVdsbmFuSjNkMm91ZDJSblpYSnFjeTVuWVM4Mk9BPT0="]
                }, 
 
     "ogate" :  { "name": "网门动态网址",
@@ -30,7 +30,7 @@
                            { "title": "世纪骗局 天安门自焚伪案揭秘", "url": "/70" },
                            { "title": "佛法修炼你知道多少？", "url": "/71" },
                            { "title": "宇宙本身就是一个生命", "url": "/72" },
-                           { "title": "更多文章...", "url": "/0" }
+                           { "title": "更多文章...", "url": "/news.php" }
                           ]
                },
                
@@ -89,7 +89,7 @@
                  "url": "https://git.io/fxNjC",
                  "sha1": "C9F91E8AD1917C7607BD3188E48FB39D7C41BDF6",
                  "sha512": "0470bedc279da85fb7ec1553c0ca8b5db2a78012276ba20bcc69dd611427c4c52443e6c9c3216fb63e6dfcb802c72a30b6c6632648bfe175de3a8a380f80cefa",
-                 "time": "1546223421"
+                 "time": "1546224156"
                } 
      
  }  
