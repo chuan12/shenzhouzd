@@ -1,7 +1,7 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkRKdk9YaDJlSGw1YjJvNU5UVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKbGFURnVNWEkwWlRsbWJIY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGdWNuTXdhV3gwT1doM1lYa3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
-                 "fq": "WkRGcmJXVnpkbkZyWkRoeU4yZ3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
+                 "value": [ "WkROb2RIZzNPVFI1TjJwM2NXZ3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKNWVubG5jWEV5Y0hsMloyTXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKeWJUZHJPV1V6TXpKdmVub3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
+                 "fq": "WkRGeE9EbHRNVzl3Y0daNmFXY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
    "shorturl": { "name": "短网址", 
@@ -15,10 +15,10 @@ var feed_data = {
                  "value": [ "TVRFNExqRTJNUzR4T0RNdU1UQXg=", "TVRFMExqSTFMakV4TlM0eE5qZz0=", "TVRFNExqRTJNUzR4T0RNdU1UQXg="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpjdU1UQTFMak01TGpFek5nPT0=", "Wm1WdGFtcHFkSFYzYmk1MFpXeHNkSEoxWlM1elkybGxibU5s", "WkRObmJHRnpNV2xwWkhsdk1EVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
+                 "value": [ "TWpjdU1UQTFMak01TGpFek9BPT0=", "YldoNlkyWmxkMlF1ZEdWc2JIUnlkV1V1YzJOcFpXNWpaUT09", "WkRGbFpXdzFObWMyZVRBeWNtUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZ3TkVwbQ==", "ZEM1amJpOUZSMWhyTmtaWA==", "WTNGemJIbDNMbWh1WjJ4dWRHZDFMbU5tTHpZNA=="]
+                 "value": [ "ZEM1amJpOUZlbkZ3VEc1Vw==", "ZEM1amJpOUZSMWhyYjFSSw==", "ZDNOcWJubGtMbTF3ZUd0aVpTNW5ZUzgyT0E9PQ=="]
                }, 
 
     "article": { "name": "最新文章", 
@@ -85,7 +85,7 @@ var feed_data = {
                  "url": "https://git.io/fxNjC",
                  "sha1": "C9F91E8AD1917C7607BD3188E48FB39D7C41BDF6",
                  "sha512": "0470bedc279da85fb7ec1553c0ca8b5db2a78012276ba20bcc69dd611427c4c52443e6c9c3216fb63e6dfcb802c72a30b6c6632648bfe175de3a8a380f80cefa",
-                 "time": "1546959687"
+                 "time": "1546959751"
                } 
      
  }     
