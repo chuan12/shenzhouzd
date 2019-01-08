@@ -1,11 +1,11 @@
  {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkRGbGFISjVNV05vWVROelpqWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKNlkyOXZaR2R0T1dvME0yNHVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRscGQzSTBkSE41Ym0xeExtTnNiM1ZrWm5KdmJuUXVibVYw"],
-                 "fq": "WkROMk5HazVZV1V3WTI1M1lYVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
+                 "value": [ "WkRGdWVYWnpOM2Q0YW5oMVlpNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRGNk5qZHRabWc1Ym5keFpYTXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRsNVpYRnpielZtY1hKaVl5NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="],
+                 "fq": "WkROcVpEQnJiMkoxZFRSamRqa3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOUZSMWR6YW5CeQ==", "ZEM1amJpOUZSMWR6V1dNeQ==", "ZEM1amJpOUZSMWR6YW5CeQ=="]
+                 "value": [ "ZEM1amJpOUZSMWR6V1hwMw==", "ZEM1amJpOUZSMWR6V1dNeQ==", "ZEM1amJpOUZSMWR6YW5CeQ=="]
                }, 
    
   "ogateurl": { "name": "ogate",
@@ -15,10 +15,10 @@
                  "value": [ "TVRFNExqRTJNUzR4T0RNdU1UQXg=", "TVRFMExqSTFMakV4TlM0eE5qZz0=", "TVRFNExqRTJNUzR4T0RNdU1UQXg="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpjdU1UQTFMak00TGpFek1BPT0=", "WldwdGJXaHViMnRuTG5ScFlXNXNhUzVvYjNOMA==", "WkRKaGNqRmllSGhwYW5SMWJYQXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
+                 "value": [ "TWpjdU1UQTFMak01TGpFek9BPT0=", "YVc1dmJYbDBiUzVoYkd4bWIzSjViM1V1YzJOcFpXNWpaUT09", "WkRFemNuRjZhM1Y1WjNSdGVqa3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
                },
  "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxTVZKaQ==", "ZEM1amJpOUZSMWhyWkd4Rw==", "Ym1SMWNIbHNMbkY2ZUdkbWFDNW5ZUzgyT0E9PQ=="]
+                 "value": [ "ZEM1amJpOUZlbkZxUVVsUg==", "ZEM1amJpOUZSMWhyTmtadg==", "Y20xa2Jta3VibXBsYm0xbkxtTm1Melk0"]
                }, 
 
     "ogate" :  { "name": "网门动态网址",
@@ -89,7 +89,7 @@
                  "url": "https://git.io/fxNjC",
                  "sha1": "C9F91E8AD1917C7607BD3188E48FB39D7C41BDF6",
                  "sha512": "0470bedc279da85fb7ec1553c0ca8b5db2a78012276ba20bcc69dd611427c4c52443e6c9c3216fb63e6dfcb802c72a30b6c6632648bfe175de3a8a380f80cefa",
-                 "time": "1546933243"
+                 "time": "1546933307"
                } 
      
  }  
