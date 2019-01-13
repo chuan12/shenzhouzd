@@ -1,11 +1,11 @@
  {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkRJd1lUVjRlalozWkRWbmNtTXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRNeVptdzROek13TnpkMGVXMHVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKcFkza3pPVEZyWm5sNGVtWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
-                 "fq": "WkhWdGRtdGtkbkZ2ZVhjMExtTnNiM1ZrWm5KdmJuUXVibVYw"
+                 "value": [ "WkRKM2N6RnJjelp5WVRoa1pHd3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKbWIzTjVOWEpzTmpsNWFETXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRWM056aGtObTgwYTI1cUxtTnNiM1ZrWm5KdmJuUXVibVYw"],
+                 "fq": "WkRGM2RqSnBhRzR4TTNZd09HY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOUZjVWwxWjJacA==", "ZEM1amJpOUZjVWwxWlVOcw==", "ZEM1amJpOUZjVWwxWjJwMA=="]
+                 "value": [ "ZEM1amJpOUZjVWwxWjJacA==", "ZEM1amJpOUZjVWwxWlVkVA==", "ZEM1amJpOUZjVWwxWjJ0SQ=="]
                }, 
    
   "ogateurl": { "name": "ogate",
@@ -15,10 +15,10 @@
                  "value": [ "TVRFNExqRTJNUzR5TWpFdU1UZ3c=", "TVRFNExqRTJOeTQ1Tnk0eE5EZz0=", "TVRFNExqRTJNUzR5TWpFdU1UZ3c="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "QUE9PQ==", "YzNkeFptSmpjQzV5YjI1bmVYVXViV1Z1", "WkRKbmNuSmlPSGs0YURnMmF5NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="]
+                 "value": [ "QUE9PQ==", "Wlc1cmFtWnVlSEl1Y205dVozbDFMbTFsYmc9PQ==", "WkhCek9XcGlNM1F5YVdFNWJDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="]
                },
  "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZ3VEc1aQ==", "ZEM1amJpOUZSMWhyTmtadg==", "YVdGcmIyaHFiMjh1YkhGd1lYVjJMbU5tTHpZNA=="]
+                 "value": [ "ZEM1amJpOUZlbkZ3VUdWWQ==", "ZEM1amJpOUZSMWhyU0VOTw==", "ZEhSellYVm1jeTV6YkcxM2MycDZaQzVuY1M4Mk9BPT0="]
                }, 
 
     "ogate" :  { "name": "网门动态网址",
@@ -89,7 +89,7 @@
                  "url": "https://git.io/fxNjC",
                  "sha1": "C9F91E8AD1917C7607BD3188E48FB39D7C41BDF6",
                  "sha512": "0470bedc279da85fb7ec1553c0ca8b5db2a78012276ba20bcc69dd611427c4c52443e6c9c3216fb63e6dfcb802c72a30b6c6632648bfe175de3a8a380f80cefa",
-                 "time": "1547382528"
+                 "time": "1547382592"
                } 
      
  }  
