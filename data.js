@@ -1,7 +1,7 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "Wkdob2RHZHJkMjFuZUdwaE5pNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRNelpqRmlhM2RxY21zMk0zZ3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkROaVoyMXRibTB4TldOdU1HOHVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
-                 "fq": "WkROd2JtZHlOMjEwZW00eU1XWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
+                 "value": [ "WkRGdmR6VjNZV1Z5WTNCcWEyb3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGb2RtUnhkelkwYzI1aWNYQXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRNME5IaHhjM2RqZEdkaU56a3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
+                 "fq": "WkROeFkzSm9ZVFZyWW1OcmIyY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
    "shorturl": { "name": "短网址", 
@@ -9,7 +9,7 @@ var feed_data = {
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "ZEM1amJpOUZabkZIUTNJMg==", "ZEM1amJpOUZabkZIUTBwRw==", "ZEM1amJpOUZabkZIUTFkcg=="]
+                 "value": [ "ZEM1amJpOUZabkZIUTNJMg==", "ZEM1amJpOUZabkZIUTB3NQ==", "ZEM1amJpOUZabkZIVGtGRQ=="]
                }, 
   "fo04url": { "name": "fo04",
                  "value": [ "TVM0eE5qTXVOak11TWpNMA==", "TVRFNExqRTJPQzR5TURndU1qSXc=", "TVM0eE5qTXVOak11TWpNMA=="]
@@ -18,7 +18,7 @@ var feed_data = {
                  "value": [ "TWpjdU1UQTFMak01TGpNeQ==", "TmpFdU1qSTRMakU0Tnk0eU5EQT0=", "WkRJd2FUWmtjWGRpTWpscU1qQXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxU1dkbQ==", "ZEM1amJpOUZSMWhyY1dJNQ==", "Y201dWFITXVjMlJtWVdSbUxtMXNMelk0"]
+                 "value": [ "ZEM1amJpOUZlbkZxTmtWVg==", "ZEM1amJpOUZSMWhyTmtaRA==", "WVhwMWJYTmhhUzV6Ym1oMGJXZHBMbU5tTHpZNA=="]
                }, 
 
     "article": { "name": "最新文章", 
@@ -86,7 +86,7 @@ var feed_data = {
                  "url": "https://git.io/fxNjC",
                  "sha1": "0D35F7294986F2DB2FEE689AD470693791671551",
                  "sha512": "f6f49be558304cffe23a8d2efb154825e92de3d25a7142d9d092eda0fa1d09cee4284a8f7fe80d3abec34d119113b7f9a38d5f2a3c30ec26e5a1a249b10517b0",
-                 "time": "1550951008"
+                 "time": "1550951073"
                } 
      
  }     
