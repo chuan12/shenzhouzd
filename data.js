@@ -1,24 +1,24 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "Wkhka2VuZzFNbTQ0ZVhRNGNDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRGMWJXbzRNSGR3TjIxeWRERXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkhVMU1HNWtPR3hsZW10aGJ5NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="],
-                 "fq": "WkdkemJIRm9NbmwzTTJFNU1pNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="
+                 "value": [ "WkRJeWJUbG5ORGsxTjNVMGFETXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkhVMU1HNWtPR3hsZW10aGJ5NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRKd2NYbG1PRGhyY0hvMmVISXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
+                 "fq": "WkRFNWQyOWhlVGd3YkRkclluRXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOUZTVlZLVlZRdw==", "ZEM1amJpOUZTVlZLTkZnNA==", "ZEM1amJpOUZTVlZLVlhSTw=="]
+                 "value": [ "ZEM1amJpOUZTVlZLTkZnNA==", "ZEM1amJpOUZTVlZLTkZnNA==", "ZEM1amJpOUZTVlZLVlhSTw=="]
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "ZEM1amJpOUZTVlZLTkRkcQ==", "ZEM1amJpOUZTVlZLTkROdg==", "ZEM1amJpOUZTVlZLVlVkbA=="]
+                 "value": [ "ZEM1amJpOUZTVlZLTkZoUg==", "ZEM1amJpOUZTVlZLTkRkcQ==", "ZEM1amJpOUZTVlZLVlZSRA=="]
                }, 
   "fo04url": { "name": "fo04",
                  "value": [ "TVRFNExqRTJNUzR5TWpNdU1URTU=", "TVM0eE5qSXVNVGczTGpJd053PT0=", "TVRFNExqRTJNUzR5TWpNdU1URTU="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TmpFdU1qSTRMakl4T0M0Mw==", "TmpFdU1qTXdMakU1TGpZMQ==", "QUE9PQ=="]
+                 "value": [ "TWpjdU1UQTFMak16TGpJMU1nPT0=", "TmpFdU1qTXdMakU1TGpZMQ==", "QUE9PQ=="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxVEZkVw==", "ZEM1amJpOUZSMWhyWm0xcw==", "ZG01a2JuVnRjaTVuYUhGb2FITXVaMkV2TmpnPQ=="]
+                 "value": [ "ZEM1amJpOUZlbkZxWkdOTg==", "ZEM1amJpOUZSMWhyU21WbA==", "WVhCMWNXNTVabkF1WkhKc2VtOXljUzV0YkM4Mk9BPT0="]
                }, 
 
     "article": { "name": "最新文章", 
@@ -86,7 +86,7 @@ var feed_data = {
                  "url": "https://git.io/fxNjC",
                  "sha1": "0D35F7294986F2DB2FEE689AD470693791671551",
                  "sha512": "f6f49be558304cffe23a8d2efb154825e92de3d25a7142d9d092eda0fa1d09cee4284a8f7fe80d3abec34d119113b7f9a38d5f2a3c30ec26e5a1a249b10517b0",
-                 "time": "1551584392"
+                 "time": "1551584456"
                } 
      
  }     
