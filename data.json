@@ -1,6 +1,6 @@
 {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkRKd05XaGxPSGt3Tm1obGNtUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRFeU5qZzBOelY2YXpCamFuVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkROdWFHWnJaRE42Y20xNmR6UXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
+                 "value": [ "WkRFNU5UTm9kVEkxWTJsdmMzSXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRNd2FYQTNNVFZ5ZGpWcWNuUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRFMmVXdGtZbmh3ZFRZMGNtd3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
                  "fq": "WkdadWNqTnllVEl5Tm05d015NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="
                },
                
@@ -12,13 +12,13 @@
                  "value": [ "ZEM1amJpOUJhVTlTYVZaM01BPT0=", "ZEM1amJpOUJhVTlTYVdOd1VnPT0=", "ZEM1amJpOUJhVTlTYVhSbGNnPT0="]
                }, 
   "fo04url": { "name": "fo04",
-                 "value": [ "TVRrNExqVTBMakV4Tnk0eE9UZz0=", "TVRrNExqVTBMakV4Tnk0eE9Uaz0=", "TVRrNExqVTBMakV4Tnk0eE9Uaz0="]
+                 "value": [ "TVRrNExqVTBMakV4Tnk0eE9Uaz0=", "TVRrNExqVTBMakV4Tnk0eE9UYz0=", "TVRrNExqVTBMakV4Tnk0eU1EQT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TmpFdU1qSTRMakU0TVM0ek13PT0=", "TmpFdU1qTXhMakUyTVM0ek1BPT0=", "WkRFNGNEaDBOR3hqZEdJeU5HSXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
+                 "value": [ "TWpjdU1UQTFMak0yTGpFMk13PT0=", "TmpFdU1qTXhMakUyTVM0ek1BPT0=", "WkRKeE1qVm1jbkF5TW5WellXNHVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
                },
  "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxUzFWVg==", "ZEM1amJpOUZSMWhyVjNobg==", "ZG1Kd2JtUnBMbWgyYTJWaGJXcHhMbWRoTHpZNA=="]
+                 "value": [ "ZEM1amJpOUZlbkZxWkdOag==", "ZEM1amJpOUZSMWhyWlZoVQ==", "ZDJodmNteHZaSGd1Y1hWeGMyOXplaTV0YkM4Mk9BPT0="]
                }, 
 
     "ogate" :  { "name": "网门动态网址",
@@ -90,7 +90,7 @@
                  "url": "https://git.io/fxNjC",
                  "sha1": "0D35F7294986F2DB2FEE689AD470693791671551",
                  "sha512": "f6f49be558304cffe23a8d2efb154825e92de3d25a7142d9d092eda0fa1d09cee4284a8f7fe80d3abec34d119113b7f9a38d5f2a3c30ec26e5a1a249b10517b0",
-                 "time": "1562681968"
+                 "time": "1562682034"
                } 
      
  }
