@@ -1,24 +1,24 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkROcGNtRnVhbTE1ZG0xbE56VXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkhadGQzVnhkM1YyWTI5bmVTNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRKdGNtcHBjM3B6YkdOcmRqTXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
-                 "fq": "WkROMGNuSmllWEJ6TWpaNmFHWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
+                 "value": [ "WkROd2JHMW1lVGxrYm5SNllYb3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkdVd2NqTjJjMlEyYW1KNGNTNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkhZek1IZDJiV1owTTJadlppNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==","WkRoNlpHTTFPVFF4ZUcwME5DNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRGeGJEUnpOVEJqTkRCNGF6Z3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGdmFqUXpabmM1Y2pBd1kyVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
+                 "fq": "WkRGM2VHVmtjR3A0ZVdKcU5Xa3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOUJhVmx5UkZab1pBPT0=", "ZEM1amJpOUJhVmx5UkhRMGFnPT0=", "ZEM1amJpOUJhVmx5UkdaaFJBPT0="]
+                 "value": [ "ZEM1amJpOUJhVmxuVGtSaGJ3PT0=", "ZEM1amJpOUJhVmxuVGtSRWRnPT0=", "ZEM1amJpOUJhVmxuVGtSV1p3PT0=","ZEM1amJpOUJhVmxuVG10QlNnPT0=", "ZEM1amJpOUJhVmxuVG10b2FnPT0=", "ZEM1amJpOUJhVmxuVG10b2FnPT0="]
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "ZEM1amJpOUJhVmx5UkRVeFZBPT0=", "ZEM1amJpOUJhVmx5UkdaaGF3PT0=", "ZEM1amJpOUJhVmx5UkZab2JRPT0="]
+                 "value": [ "ZEM1amJpOUJhVmxuVGtSbU53PT0=", "ZEM1amJpOUJhVmxuVG10QlRRPT0=", "ZEM1amJpOUJhVmxuVG10b1VnPT0=","ZEM1amJpOUJhVmxuVGtSaE9RPT0=", "ZEM1amJpOUJhVmxuVGtSRVRBPT0=", "ZEM1amJpOUJhVmxuVGtSbU53PT0="]
                }, 
   "fo04url": { "name": "fo04",
-                 "value": [ "TVRrNExqVTBMakV4Tnk0eE9Uaz0=", "TVRrNExqVTBMakV4Tnk0eE9UYz0=", "TVRrNExqVTBMakV4Tnk0eE9UZz0="]
+                 "value": [ "TVRFeExqSTFNUzR4TlM0eU16Yz0=", "TVRFNExqRTJNUzR4T0RBdU1UUT0=", "TVRFNExqRTJOUzR6TXk0eU16RT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpjdU1UQTFMak16TGpRMA==", "ZFc1c1ozWjVjeTVuWVc1bGJpNW9iM04w", "WkRFeGFtYzRkMm95TTJkM01HOHVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
+                 "value": [ "TWpjdU1UQTFMak0wTGpJeA==", "TmpFdU1qSTRMakl4Tmk0eU1qVT0=", "Wld4MGRITmljQzU2YUdWdVoyeDFMblJ2Y0E9PQ==","ZFdWNVlXbGphQzVrWldaaExuTndZV05s", "Y0haMGRYVmhMbTFwYm1kaVlXa3VjM0JoWTJVPQ==", "WTNWbWVtZHVhR0V1ZFhWNVlTNTBiM0E9"]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxTmtWTQ==", "ZEM1amJpOUZSMWhyY1dJdw==", "YjJadmQybDBlUzVvYzJGaVpHaDVMbTFzTHpZNA=="]
+                 "value": [ "ZEM1amJpOUZlbkZxYW05Mg==", "ZEM1amJpOUZSMWhyU0VOTA==", "WjJsa2VYbGplQzV4ZFc1b1lpNW5jUzgyT0E9PQ=="]
                }, 
 
     "article": { "name": "最新文章", 
@@ -62,8 +62,8 @@ var feed_data = {
      "others": { "name": "神州营救",
                  "value": [ 
                             { "title": "紧急营救", "url": "/19/" },
-                            { "title": "黑龙江营救", "url": "/230000" },
-                            { "title": "山东营救", "url": "/370000" },
+                            { "title": "黑龙江营救", "url": "/?yvq=eWo3MjauymxVZ3NwB3qudHcVc2vhcmNoL2xhymvsLYvFNSU4NSvCMYvFNivCMYvbOCvFOSvCqiU5MSvFOSvCRSU5OSvFNivCMSU5RivFOCvCRivbqivFNSvbRSvCMw" },
+                            { "title": "山东营救", "url": "/?yvq=eWo3MjauymxVZ3NwB3qudHcVc2vhcmNoL2xhymvsLYvFNSU4NSvCMYvFNivCMYvbOCvFNSvCMSvCMSvFNCvCOCU5qYvFOCvCRivbqivFNSvbRSvCMw" },
                             { "title": "追 查 令---被追查人 吕红军", "url": "/ekCX" },
                             { "title": "更多内容...", "url": "/faq.php" }
                           ]
@@ -82,11 +82,12 @@ var feed_data = {
                  "value": "c2hlbnpob3V6aGVuZ2Rhby5vcmc="
                },
                
-"version": { "ver": "4.6",
-                "url": "https://git.io/fxNjC",
-                "sha1": "4982F6494AEB53EA96F64B5306DF1FD607A17BFD",
-                "sha512": "E2DE493E6B41FD4792AA6DC9096C5BF77DDB0068AC28E2B142BAB28BF49D041EBD689AE8E8FE5B23315469DE1505F4A5C5FF974A4FA011B67ED8B285A29676AF",
-                 "time": "1565006862"
+"version": { "ver": "4.1",
+                 "url": "https://git.io/fxNjC",
+                 "sha1": "0D35F7294986F2DB2FEE689AD470693791671551",
+                 "sha512": "f6f49be558304cffe23a8d2efb154825e92de3d25a7142d9d092eda0fa1d09cee4284a8f7fe80d3abec34d119113b7f9a38d5f2a3c30ec26e5a1a249b10517b0
+",
+                 "time": "1565007245"
                } 
      
  }     
