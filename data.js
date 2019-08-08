@@ -1,24 +1,24 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkRGck5tVjNhSGQ0TTJwM1pIY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkhVMk5IZGtlR2RyZUdSM1ppNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRGMk0yWTVNbk0xTTNJM01HSXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==","WkRJM05UTnBaRE52WWpReFkza3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRFd1p6VjFNekozWkhsMk9XZ3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRNME9UaDRZblJwWjIxamRtRXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
-                 "fq": "WkRsMVkzaGhkV2MxY1dnMk1pNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="
+                 "value": [ "WkRKaVptZG1kR1o1Ympsek4zb3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGemVtcDZNWGhzTkRNNWNUSXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGb1lXcHBaV3Q0YkdSb2FXVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
+                 "fq": "WkdKbGNqTm1PVFptTW1nemNDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOUJhVlJIWkdab05RPT0=", "ZEM1amJpOUJhVlJIWkdaYVVRPT0=", "ZEM1amJpOUJhVlJIWkdaYVVRPT0=","ZEM1amJpOUJhVlJIWkZabFVBPT0=", "ZEM1amJpOUJhVlJIWkZaR1J3PT0=", "ZEM1amJpOUJhVlJIWkdab05RPT0="]
+                 "value": [ "ZEM1amJpOUJhVlJpVm1wV05RPT0=", "ZEM1amJpOUJhVlJpVmtoNlNBPT0=", "ZEM1amJpOUJhVlJpVm1wV05RPT0="]
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "ZEM1amJpOUJhVlJIWkdaYWJBPT0=", "ZEM1amJpOUJhVlJIWkZaR2NRPT0=", "ZEM1amJpOUJhVlJIWkZabmNnPT0=","ZEM1amJpOUJhVlJIWkdab2RBPT0=", "ZEM1amJpOUJhVlJIWkdaTVp3PT0=", "ZEM1amJpOUJhVlJIWkdaTVp3PT0="]
+                 "value": [ "ZEM1amJpOUJhVlJpVmxRNU5RPT0=", "ZEM1amJpOUJhVlJpVmxRNU5RPT0=", "ZEM1amJpOUJhVlJpVm1wemVBPT0="]
                }, 
   "fo04url": { "name": "fo04",
-                 "value": [ "TVRFeExqSTFNUzR4TlM0eE56WT0=", "TVRFeExqSTFNUzR4TnpVdU1UQTA=", "TmpFdU1qSTRMakU0T0M0eE9UTT0="]
+                 "value": [ "TVRrNExqVTBMakV4Tnk0eE9UYz0=", "TVRrNExqVTBMakV4Tnk0eU1EQT0=", "TVRrNExqVTBMakV4Tnk0eU1EQT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TlRRdU5qY3VPVGN1TVRnMg==", "WW5KdVltVm5MbXBwZFdSMUxuTndZV05s", "TWpjdU1UQTFMak0yTGpnMg==","YldsM1ptOWliUzVuWVc0dFpXNHViMjVzYVc1bA==", "Y1hacmEyZ3VablZpWVc4dWMzQmhZMlU9", "TmpFdU1qSTRMakU0Tmk0eU1EVT0="]
+                 "value": [ "TWpjdU1UQTFMak0xTGpJNQ==", "WjNGM2JtWjFMbWQxYVhSMUxtaHZjM1E9", "WkdSMU9YSnphbUl3TnpGcU1DNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxWkdOSg==", "ZEM1amJpOUZSMWhyTmtaRA==", "WTJwaGRXUXVjbkI2YW5BdWJXd3ZOamc9"]
+                 "value": [ "ZEM1amJpOUZlbkZxY0ZkeQ==", "ZEM1amJpOUZSMWhyWlZoVQ==", "YzJkeWFtbHFiUzVuYUhGb2FITXVaMkV2TmpnPQ=="]
                }, 
 
     "article": { "name": "最新文章", 
@@ -62,8 +62,8 @@ var feed_data = {
      "others": { "name": "神州营救",
                  "value": [ 
                             { "title": "紧急营救", "url": "/19/" },
-                            { "title": "黑龙江营救", "url": "/?yvq=eWo3MjauymxVZ3NwB3qudHcVc2vhcmNoL2xhymvsLYvFNSU4NSvCMYvFNivCMYvbOCvFOSvCqiU5MSvFOSvCRSU5OSvFNivCMSU5RivFOCvCRivbqivFNSvbRSvCMw" },
-                            { "title": "山东营救", "url": "/?yvq=eWo3MjauymxVZ3NwB3qudHcVc2vhcmNoL2xhymvsLYvFNSU4NSvCMYvFNivCMYvbOCvFNSvCMSvCMSvFNCvCOCU5qYvFOCvCRivbqivFNSvbRSvCMw" },
+                            { "title": "黑龙江营救", "url": "/230000" },
+                            { "title": "山东营救", "url": "/370000" },
                             { "title": "追 查 令---被追查人 吕红军", "url": "/ekCX" },
                             { "title": "更多内容...", "url": "/faq.php" }
                           ]
@@ -86,7 +86,7 @@ var feed_data = {
                 "url": "https://git.io/fxNjC",
                 "sha1": "4982F6494AEB53EA96F64B5306DF1FD607A17BFD",
                 "sha512": "E2DE493E6B41FD4792AA6DC9096C5BF77DDB0068AC28E2B142BAB28BF49D041EBD689AE8E8FE5B23315469DE1505F4A5C5FF974A4FA011B67ED8B285A29676AF",
-                 "time": "1565247342"
+                 "time": "1565247379"
                } 
      
- } 
+ }     
