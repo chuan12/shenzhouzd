@@ -1,6 +1,6 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkRFNWNYWjVlR1k1TnpoMWJqY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkdwMmFESXljamw2Wm1kdmNTNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRZeU5UUjNlRGxzY0dSamJTNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==","WkdabGFtbzBhREJpT0dac2VTNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkhaNWR6Rm9jV2RtYzNkb1l5NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRNeGR6UTVhVEp3TldFMk5ta3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
+                 "value": [ "WkdwamJUQnlibUp2TWpodE5pNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRKdmNUWmhjMmh1WlRWbk5Ea3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRZeU5UUjNlRGxzY0dSamJTNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==","WkdabGFtbzBhREJpT0dac2VTNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkhaNWR6Rm9jV2RtYzNkb1l5NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRNeGR6UTVhVEp3TldFMk5ta3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
                  "fq": "WkhsNU4zY3hjbXBxZHpCa2J5NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="
                },
                
@@ -15,10 +15,10 @@ var feed_data = {
                  "value": [ "TVRFeExqSTFNUzR4TVM0eU5ETT0=", "TVRFNExqRTJNUzR4T0RFdU1qTXo=", "TmpFdU1qTXhMakUyTlM0eE9BPT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TlRRdU5qY3VPVGN1TVRnMg==", "ZEdWaGFtNWpkUzVuWVc0dFpXNHVjSEp2", "TmpFdU1qTXhMakUyTlM0eE9BPT0=","ZEhKNmRHUXVaMkZ1TFdWdUxuUnZjQT09", "WldSc2VuUXVhbWwxWkhVdWMzQmhZMlU9", "TmpFdU1qSTRMakU0TlM0eU5RPT0="]
+                 "value": [ "TlRRdU5qY3VPVGN1TVRnMg==", "ZG1aMGFHd3VhR1ZoYVM1emNHRmpaUT09", "TmpFdU1qTXdMalV3TGprNA==","WVc1b2IyaGhMbTkxZFdFdWRHOXc=", "YW1Sb2RubGlkbW91ZUdGcllTNTBiM0E9", "TmpFdU1qSTRMakU0TlM0eU5RPT0="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZ3UVZWWg==", "ZEM1amJpOUZSMWhyWkd4Rw==", "WVhseWJHSnFMbkp6YjJ0MWRYUjRMbWR4THpZNA=="]
+                 "value": [ "ZEM1amJpOUZlbkZxVkZKaw==", "ZEM1amJpOUZSMWhyU0VOWg==", "YUc5cWRXRXViM1I0ZUcxb2NtMHVaMkV2TmpnPQ=="]
                }, 
             
     "article": { "name": "最新文章", 
@@ -87,7 +87,7 @@ var feed_data = {
                  "sha1": "4F7B553730FAD14FD532D41FB4E234CFEF67029E",
                  "sha512": "27210A723DE4754F39A140D07ACF3FD66ECCFAEDF955D4E01938627759BD1BD6F60F4F2CC5C417609E03AFEB4C115F3F35CC85628147D0B6B1C615871BB643D6
 ",
-                 "time": "1566993150"
+                 "time": "1566993358"
                } 
      
  } 
