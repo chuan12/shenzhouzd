@@ -9,16 +9,16 @@ var feed_data = {
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "ZEM1amJpOUJhVkpyTjJwSVNRPT0=", "ZEM1amJpOUJhVkpyTjJwc1Z3PT0=", "ZEM1amJpOUJhVkpyTjJvelJnPT0=","ZEM1amJpOUJhVkpyTjJwa1dRPT0=", "ZEM1amJpOUJhVkpyTjJwa1dRPT0=", "ZEM1amJpOUJhVkpyTjJwRmNBPT0="]
+                 "value": [ "ZEM1amJpOUJhVkpyTjJwSVNRPT0=", "ZEM1amJpOUJhVkpyTjJwc1Z3PT0=", "ZEM1amJpOUJhVkpyTjJvelJnPT0=","ZEM1amJpOUJhVkpyTjJwa1dRPT0=", "ZEM1amJpOUJhVkpyTjJwRmNBPT0=", "ZEM1amJpOUJhVkpyTjJwSVNRPT0="]
                }, 
   "fo04url": { "name": "fo04",
-                 "value": [ "TVRFeExqSTBNUzQwT0M0eE5qQT0=", "TVRFeExqSTFNUzR4TnpJdU1qUXo=", "TmpFdU1qTXdMalExTGpFd01BPT0="]
+                 "value": [ "TVRFeExqSTBNUzQwT0M0eE5qQT0=", "TVRFeExqSTFNUzR4TlM0eU9BPT0=", "TmpFdU1qTXdMalExTGpFd01BPT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TlRRdU5qY3VPVGN1TVRnMg==", "YW5CbWJtNW9jQzVvYjI1bmVYVmhiaTV6Y0dGalpRPT0=", "TmpFdU1qTXdMakl3TGpFNE5RPT0=","YlhoMGNuQm1ibm91YUc5dVoyWjFMbk53WVdObA==", "YUdwdWJIRmxMbkZoYjJFdWRHOXc=", "TmpFdU1qSTRMakU1TVM0eE5qaz0="]
+                 "value": [ "TlRRdU5qY3VPVGN1TVRnMg==", "Y0dwMWFXUmxkUzVvYjI1blpuVXVjM0JoWTJVPQ==", "TmpFdU1qSTRMakl4T0M0eU1UYz0=","YjIxcWVIQnplaTVvYjI1blpuVXVjM0JoWTJVPQ==", "ZDIxMFkzbDJZWEF1Y1c5aFlTNTBiM0E9", "TmpFdU1qSTRMakU1TVM0eE5qaz0="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxWkdOSw==", "ZEM1amJpOUZSMWhyUlRORg==", "Y1haamNHSmlMbXhzZVc5emEzZ3VaM0V2TmpnPQ=="]
+                 "value": [ "ZEM1amJpOUZlbkZ3VUdWcA==", "ZEM1amJpOUZSMWhyT0VSVA==", "ZW5sa2FuY3ViSEZ3WVhWMkxtTm1Melk0"]
                }, 
             
     "article": { "name": "最新文章", 
@@ -86,7 +86,7 @@ var feed_data = {
                 "url": "https://git.io/fxNjC",
                  "sha1": "4F7B553730FAD14FD532D41FB4E234CFEF67029E",
                  "sha512": "27210A723DE4754F39A140D07ACF3FD66ECCFAEDF955D4E01938627759BD1BD6F60F4F2CC5C417609E03AFEB4C115F3F35CC85628147D0B6B1C615871BB643D6",
-                 "time": "1567851881"
+                 "time": "1567852088"
                } 
      
  } 
