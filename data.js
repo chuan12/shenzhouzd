@@ -5,7 +5,7 @@ var feed_data = {
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOUJhVVZhYXpOUVRBPT0=", "ZEM1amJpOUJhVVZhYXpONlZ3PT0=", "ZEM1amJpOUJhVVZhYTNWcmRRPT0=","ZEM1amJpOUJhVVZhYTNWeWNRPT0=", "ZEM1amJpOUJhVVZhYXpOQlZRPT0=", "ZEM1amJpOUJhVVZhYXpOQlZRPT0="]
+                 "value": [ "ZEM1amJpOUJhVVZhYXpONlZ3PT0=", "ZEM1amJpOUJhVVZhYTNWcmRRPT0=", "ZEM1amJpOUJhVVZhYTNWeWNRPT0=","ZEM1amJpOUJhVVZhYXpOQlZRPT0=", "ZEM1amJpOUJhVVZhYXpOQlZRPT0=", "ZEM1amJpOUJhVVZhYXpOUVRBPT0="]
                }, 
    
   "ogateurl": { "name": "ogate",
@@ -15,10 +15,10 @@ var feed_data = {
                  "value": [ "TVRFMExqSTBMamd3TGpJME5RPT0=", "TVRFNExqRTJNUzR4T0RFdU1UY3g=", "TmpFdU1qTXdMakU1TGpJd053PT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TlRRdU5qY3VPVGN1TVRnMg==", "WjNSdWJuVnZMbXBwZFdSMUxuTndZV05s", "TWpjdU1UQTFMak0xTGpJeE1BPT0=","Y0dSaGFIVnVMbWRoYmkxbGJpNXpjR0ZqWlE9PQ==", "YUdOcmVtUm9jQzVvYjI1bmVYVmhiaTV6Y0dGalpRPT0=", "TmpFdU1qSTRMakl4TWk0eU5UQT0="]
+                 "value": [ "TlRRdU5qY3VPVGN1TVRnMg==", "YW0xb1pXaDZhM1F1ZVdsMllTNTBiM0E9", "TWpjdU1UQTFMak0xTGpFek1RPT0=","Ym5kelpYZHpMbmhoYTJFdWRHOXc=", "WkhKM2NXWXVaMkZ1TFdWdUxtOXViR2x1WlE9PQ==", "TmpFdU1qSTRMakl4TWk0eU5UQT0="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxVnpKTA==", "ZEM1amJpOUZSMWhyUlROdQ==", "WW1Sd1ozSndhM2t1WTNSM1pubDRjV0V1WTJZdk5qZz0="]
+                 "value": [ "ZEM1amJpOUZlbkZxVmxOYQ==", "ZEM1amJpOUZSMWhyVmxWMg==", "YjJsdmVuSjNieTUzWkdkbGNtcHpMbWRoTHpZNA=="]
                }, 
 
     "article": { "name": "最新文章", 
@@ -86,7 +86,7 @@ var feed_data = {
                 "url": "https://git.io/fxNjC",
                  "sha1": "4F7B553730FAD14FD532D41FB4E234CFEF67029E",
                  "sha512": "27210A723DE4754F39A140D07ACF3FD66ECCFAEDF955D4E01938627759BD1BD6F60F4F2CC5C417609E03AFEB4C115F3F35CC85628147D0B6B1C615871BB643D6",
-                 "time": "1567933911"
+                 "time": "1567934118"
                } 
      
  } 
