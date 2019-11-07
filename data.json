@@ -1,7 +1,7 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkRSek56WXlabmM0TldkeU5pNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRJNE1tZDRPRFJqWjJjMGEyRXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkhWbWQyczBkbWd3Y1daeE15NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==","WkRGNGEzQXhaVEEyTUc1MmF6UXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGNVlUZHVZbXh6ZFcweU5ERXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKallYRTBabUo0TldGbU1IQXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
-                 "fq": "WkhKc05HdHNPSEY2YjNCa2JpNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="
+                 "value": [ "WkhWNmRtbHlabk4wWlRreWRTNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "Wkd4dWNIa3lkWFpxTTNwcWN5NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkROc2FUVm1ibXgwZVhCdU1HY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==","WkROMU5tZHZOVzQzWW1sMFltRXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKaU5IZ3hZWE55TVhjMmNqY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRJNE1tZDRPRFJqWjJjMGEyRXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
+                 "fq": "WkhWbWQyczBkbWd3Y1daeE15NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="
                },
                
    "shorturl": { "name": "短网址", 
@@ -15,10 +15,10 @@ var feed_data = {
                  "value": [ "TVRFeExqSTFNUzR4TUM0eU1Uaz0=", "TVRFMExqSTBMamd5TGpZMA==", "TmpFdU1qSTRMakl3T0M0eE16VT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TlRRdU5qY3VPVGN1TVRnMg==", "ZEhod2NHRmhZM291WjJGdUxXVnVMbkJ5Ync9PQ==", "TmpFdU1qSTRMakl3T0M0eE16VT0=","Y1dab2JXRjRlaTVuWVc0dFpXNHVkRzl3", "Y0d0cWVtVnJMbXBwZFdSMUxuTndZV05s", "TmpFdU1qSTRMakU0TVM0eE5EYz0="]
+                 "value": [ "TlRRdU5qY3VPVGN1TVRnMg==", "YW5aNmJIRnBMbTl2Y1dFdWRHOXc=", "TWpjdU1UQTFMak0zTGpVMQ==","YVdSd1kyY3VkR2xoYm1SaGJ5NXpjR0ZqWlE9PQ==", "Y1hGaWJXdDJMbnBvWlc1bmJIVXVkRzl3", "TmpFdU1qSTRMakUzTmk0eE5qRT0="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZ3ZW05bg==", "ZEM1amJpOUZSMWhyTXpORw==", "WTJGNVoyMXlMbk5zYlhkemFucGtMbWR4THpZNA=="]
+                 "value": [ "ZEM1amJpOUZlbkZxUzFVeQ==", "ZEM1amJpOUZSMWhyVGtKMQ==", "Wkc5NGJITnJMbTF3ZUd0aVpTNW5ZUzgyT0E9PQ=="]
                }, 
             
     "article": { "name": "最新文章", 
@@ -86,7 +86,7 @@ var feed_data = {
                 "url": "https://git.io/fxNjC",
                  "sha1": "4F7B553730FAD14FD532D41FB4E234CFEF67029E",
                  "sha512": "27210A723DE4754F39A140D07ACF3FD66ECCFAEDF955D4E01938627759BD1BD6F60F4F2CC5C417609E03AFEB4C115F3F35CC85628147D0B6B1C615871BB643D6",
-                 "time": "1573095185"
+                 "time": "1573095392"
                } 
      
  } 
