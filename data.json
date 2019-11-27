@@ -1,6 +1,6 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkRJemNqaHZiM2wyZHpJMmFXY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRJNWRIVnllV2MxY2pOdGJuSXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRFNWR6Vm1aek4wTW5BeGNUWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==","WkRKNFltdzRZVGd5YW1RMmRqUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "Wkd3M1l6QndkSHBoT0d3eU1TNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkhGcGRuZzRjMk0zZUhBME5DNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="],
+                 "value": [ "WkhJelpqSnlZM0pyWm5ObE5pNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRKc2IzbzNNM1kxT0dJMVptOHVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKaE5EWTNiRGhsYW1Sck1uRXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==","WkRKNFltdzRZVGd5YW1RMmRqUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRNemRIcHZlV1l6TnpBM2NIVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkdNMmJuQjFjV2RsWVdVMVlpNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="],
                  "fq": "WkdGc05IbzVkRE4yZVc4MGVpNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="
                },
                
@@ -15,10 +15,10 @@ var feed_data = {
                  "value": [ "TVM0eE5qTXVPRGt1TVRrNQ==", "TVRFNExqRTJOeTQ1T0M0eE1qWT0=", "TmpFdU1qSTRMakl5TXk0eU16WT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TlRRdU5qY3VPVGN1TVRnMg==", "Y0dsaGVtdHpMblYxZW1FdWRHOXc=", "TmpFdU1qSTRMakU1TUM0eE5EST0=","ZUcxeWFISjBMbVoxWW1GdkxuTndZV05s", "WkhoM2RXZG5aQzV2WVhwaExuUnZjQT09", "TmpFdU1qSTRMakl5TXk0eE9UZz0="]
+                 "value": [ "TlRRdU5qY3VPVGN1TVRnMg==", "ZEhkb2FucHViQzU0WVd0aExuUnZjQT09", "TmpFdU1qSTRMakU1TUM0eE5EST0=","ZW5GNGJHRmtMbVoxYkhVdWMzQmhZMlU9", "Y0hwaGJHMXRkM291YjI5eFlTNTBiM0E9", "TmpFdU1qSTRMakU1TUM0eU13PT0="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZ3UVZWWA==", "ZEM1amJpOUZSMWhyWVhWVg==", "YUdSNVpuVjNiaTV5YkhCaWJHTjFieTV0YkM4Mk9BPT0="]
+                 "value": [ "ZEM1amJpOUZlbkZ3VEc1Vw==", "ZEM1amJpOUZSMWhyWVhWMw==", "YjJsMFoyVXVjbTFvWkhGdGFHb3ViV3d2TmpnPQ=="]
                }, 
             
     "article": { "name": "最新文章", 
@@ -86,7 +86,7 @@ var feed_data = {
                 "url": "https://git.io/fxNjC",
                  "sha1": "4F7B553730FAD14FD532D41FB4E234CFEF67029E",
                  "sha512": "27210A723DE4754F39A140D07ACF3FD66ECCFAEDF955D4E01938627759BD1BD6F60F4F2CC5C417609E03AFEB4C115F3F35CC85628147D0B6B1C615871BB643D6",
-                 "time": "1574840536"
+                 "time": "1574840742"
                } 
      
  } 
