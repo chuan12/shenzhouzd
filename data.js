@@ -1,6 +1,6 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkhKcU1taHFjVzFrTW1GaVp5NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRGMllYazFhelIzZWpSdWRHRXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRFNU1tVjBjakJvYXpKb1pYY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==","Wkc1eWFHWTROSEZrZFdzemVDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRObE1HNTZhV1ZuZEhablpHUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "Wkdkd05tUjZkMmRpYmpWbmFpNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="],
+                 "value": [ "WkRKcmJEZGpZM0JqYzJNMWJYa3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGMllYazFhelIzZWpSdWRHRXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRFNGEyNW5iSGRuZG1RMU5IY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==","Wkc1eWFHWTROSEZrZFdzemVDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRObE1HNTZhV1ZuZEhablpHUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "Wkdkd05tUjZkMmRpYmpWbmFpNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="],
                  "fq": "WkhKMU9IZHBOM0l4Wm14eFpDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="
                },
                
@@ -15,10 +15,10 @@ var feed_data = {
                  "value": [ "TVRFeExqSTBNUzQwT1M0eE5Eaz0=", "TVRFeExqSTBNUzQxTVM0eU9RPT0=", "TmpFdU1qSTRMakU0TVM0eU5BPT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TlRRdU5qY3VPVGN1TVRnMg==", "WTJscGJYWm1MbmhwYm5kbGFTNXphWFJs", "TlRrdU1URTFMalV4TGpFMk13PT0=","ZVhwcWRuVXVkRzl1Wnk1d2NtVnpjdz09", "YkhGNVpIWjFMbnBvWldrdWMzQmhZMlU9", "TmpFdU1qSTRMakUzT1M0eE5ERT0="]
+                 "value": [ "TlRRdU5qY3VPVGN1TVRnMg==", "YTNsdWNXTnFZeTV6ZW5wa0xuaDVlZz09", "TmpFdU1qSTRMakU0TWk0eU1nPT0=","YjNaaloyMTJkQzV6YUdGdVpHRnBMbmg1ZWc9PQ==", "ZDNSNmRIaDBiQzU1YjI1bkxuQnlaWE56", "TmpFdU1qSTRMakUzT1M0eE5ERT0="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxYUdwbg==", "ZEM1amJpOUZSMWhyWlZocQ==", "WjIxaGVuZG1heTV3WVhGb2RtUjZkaTVuY1M4Mk9BPT0="]
+                 "value": [ "ZEM1amJpOUZlbkZ3VEc1Vw==", "ZEM1amJpOUZSMWhyTXpObg==", "YUdObWQyVnhkbXN1Ym5kMmQyWXVZMll2TmpnPQ=="]
                }, 
 
     "article": { "name": "最新文章", 
@@ -86,7 +86,7 @@ var feed_data = {
                 "url": "https://git.io/fxNjC",
                  "sha1": "4F7B553730FAD14FD532D41FB4E234CFEF67029E",
                  "sha512": "27210A723DE4754F39A140D07ACF3FD66ECCFAEDF955D4E01938627759BD1BD6F60F4F2CC5C417609E03AFEB4C115F3F35CC85628147D0B6B1C615871BB643D6",
-                 "time": "1575753685"
+                 "time": "1575753892"
                } 
      
  } 
