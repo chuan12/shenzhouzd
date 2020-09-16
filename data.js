@@ -1,7 +1,7 @@
 var feed_data =
 {"domain":{"name":"\u5f53\u524d\u57df\u540d",
-                 "value": [ "WkRGdE5XNTBZekV4TjNRMGRYTXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkdJek9Hb3dNWEp0WW5CNk1DNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkROcWN6bDZZVzloZHpkcWEza3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKemRHTTNiRE01WXpoemVEY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRJMVkzY3plR3gwT0daMWVqa3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKd2JHRTBlVEZ3Ym5CMllXb3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
-                 "fq": "WkdzMmRYTTVObVk0YmpCbmR5NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="
+                 "value": [ "WkRKeGJYQnNkR2QyTURWMWRXUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGMWVuQjJaVE4wY1hkMFpuTXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkdoME1IVmhiVEYyWm5jd2FpNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRNMk5HdDRlWEZwZG5WeU1XNHVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKMU1EQm1aVE14TW5wc2RXa3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkhVeFptczRPVEp4Y2pCMU55NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="],
+                 "fq": "WkRGeGJHSjNjWEEzYm5kMGEyZ3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
 "shorturl":{"name":"\u77ed\u7f51\u5740",
@@ -15,16 +15,16 @@ var feed_data =
                  "value": [ "TVRFeExqSTBNUzQ0TlM0eU1qTT0=", "TVRFNExqRTJNUzR4TnprdU53PT0=", "TmpFdU1qSTRMakU0TUM0NU1nPT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpFNUxqZzFMakV3T1M0Mk5BPT0=", "TmpFdU1qSTRMakU0TkM0eE5BPT0=", "ZUcxc1kydG9ZUzQ9", "Ykc5NVlXOHU=", "Wm5kMmVIWXU=", "TVRFNExqRTJNUzR4TnprdU53PT0="]
+                 "value": [ "TmpFdU1qSTRMakU0TUM0NU1nPT0=", "TlRrdU1URTFMalUyTGpneQ==", "ZVhkMlpXWnlaUzQ9", "WW01aWIyd3U=", "YTJSbmJYSjFaV3d1", "TVRFNExqRTJNUzR4TnprdU53PT0="]
                },
 "ogColl":{"name":"\u7f51\u95e8",
-                 "value": [ "ZEM1amJpOUZlbkZxVEZkSg==", "ZEM1amJpOUZSMWhyU0VOTw==", "WVdoc2RXY3VZV042ZDNaMGJHRXVaM0V2TmpnPQ=="]
+                 "value": [ "ZEM1amJpOUZlbkZxZEhaMg==", "ZEM1amJpOUZSMWhyVGtKaw==", "ZVd4emFHSXVjWFZzZVc0dWJXd3ZOamc9"]
                }, 
 "article":{"name":"\u6700\u65b0\u6587\u7ae0",
 "value":[]},
 "video":{"name":"\u7cbe\u5f69\u89c6\u9891",
 "value":[{"title":"\u65b0\u5510\u4eba\u76f4\u64ad",
-"url":"\/tEXS?vcwzm"},
+"url":"\/tEXS?rvhpo"},
 {"title":"\u65b0\u5510\u4eba\u4e9a\u592a\u53f0",
 "url":"\/v.php?id=ntd-mlt"},
 {"title":"\u5929\u56fd\u4e50\u56e2",
@@ -35,24 +35,24 @@ var feed_data =
 "url":"\/video\/"}]},
 "software":{"name":"\u7ffb\u5899\u8f6f\u4ef6",
 "value":[{"title":"\u795e\u5dde\u660e\u89c1\u5b89\u5353\u7248\u4e00\u952e\u7ffb\u5899\u5ba2\u6237\u7aef",
-"url":"\/FYMXJ?wtjke"},
+"url":"\/FYMXJ?lfkwd"},
 {"title":"\u81ea\u7531\u95e8\u5b89\u5353\u7248",
-"url":"\/5c5tX?xzxsx"},
+"url":"\/5c5tX?isifd"},
 {"title":"\u5b89\u5353\u7248\u65e0\u754c\u4e00\u70b9\u901a",
-"url":"\/Wf89M?kmegx"},
+"url":"\/Wf89M?tlejv"},
 {"title":"\u795e\u5dde\u660e\u89c1TV\u5b89\u5353\u7248",
-"url":"\/CLZDc?fmoxc"},
+"url":"\/CLZDc?gypqa"},
 {"title":"\u66f4\u591a\u8f6f\u4ef6...",
 "url":"https:\/\/git.io\/szzd"}]},
 "website":{"name":"\u7f51\u5740\u5bfc\u822a",
 "value":[{"title":"\u6cd5\u8f6e\u5927\u6cd5\u660e\u6167\u7f51",
-"url":"\/GnoF?ptjqh"},
+"url":"\/GnoF?pdwqp"},
 {"title":"\u52a8\u6001\u7f51",
-"url":"\/dCyE?kknnr"},
+"url":"\/dCyE?jcfam"},
 {"title":"\u65b0\u5510\u4eba\u7535\u89c6\u53f0",
-"url":"\/V8cz?wawjq"},
+"url":"\/V8cz?ellmb"},
 {"title":"\u66f4\u591a\u7f51\u5740...",
-"url":"\/TRG2?izuto"}]},
+"url":"\/TRG2?trrzd"}]},
 "others":{"name":"\u795e\u5dde\u8425\u6551",
 "value":[]},
 "contact":{"name":"\u8054\u7cfb\u6211\u4eec",
@@ -60,12 +60,12 @@ var feed_data =
 "email":"YzJobGJucG9iM1Y2YUdWdVoyUmhiMEJuYldGcGJDNWpiMjA9"},
 "copyright":{"txt":"&copy; 2015-2020 \u795e\u5dde\u6b63\u9053",
 "domain":"ZDNkM0xuTm9aVzU2YUc5MWVtaGxibWRrWVc4dWIzSm4="},
-"tui":{"url":"\/mBs1?uvybh",
+"tui":{"url":"\/mBs1?yqkek",
 "value":"c2hlbnpob3V6aGVuZ2Rhby5vcmc="},
 "version":{"ver":"5.0",
 "url":"https:\/\/git.io\/fxNjC",
 "sha1":"555ACDC8F509DC216E45DC8EAA064F3A900A83F0",
 "sha512":"F06EDF7DDFB483AF55F6775FEB3C41D345923F5C0E8CE201944BC530321859BEDCC3DF7A96B98D568918D6F8E6310C5955D56DCA90FE8669DD143F34E8A7FB34",
-"time":"1600219409"
+"time":"1600219616"
 }
 }
