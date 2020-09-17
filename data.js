@@ -1,7 +1,7 @@
 var feed_data =
 {"domain":{"name":"\u5f53\u524d\u57df\u540d",
-                 "value": [ "WkROME5tUjVjMnN6ZWpreWN6Y3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKc2EzbzVZMm93YzNOdE9EVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGeWJUSnZkekV5YUdaNU16QXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKcWNtYzFkV0oxZUdGa2RYTXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGa2J6ZDRNakYwZEdGMmFTNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRKeGVtZGhlamR4Y1RCMloyY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
-                 "fq": "Wkdwa1lqQjNhRGRpTjNONWVDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="
+                 "value": [ "WkRGcWFuVndhWFJ3WkdRNWFuY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkROdlluRjZhWGR2ZEhwNWVHWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGcE5tTjNiMjF4Ym5keFlqWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGeE1EWnpkSFJ3ZW5GbFoyMHVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKblpteDVkR042ZVhwa1p5NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRGcGNuWjZhR05zTW5VeU1HUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
+                 "fq": "WkRKbVltazBkREp4WkRCb016TXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
 "shorturl":{"name":"\u77ed\u7f51\u5740",
@@ -15,16 +15,16 @@ var feed_data =
                  "value": [ "TVRFeExqSTFNUzQ0TGpjeQ==", "TVRFNExqRTJNUzR4TnprdU53PT0=", "TmpFdU1qSTRMakU0TUM0NU1nPT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpFNUxqZzFMakV3TWk0eU1qYz0=", "TmpFdU1qSTRMakUzTnk0NU1BPT0=", "WW5sMGVXOXRMakV1TVRjekxqa3lMakUxTUE9PQ==", "ZEdWMVkzVXVNVEV4TGpJME9TNHhMakV4TXc9PQ==", "YUhaeFpHSjJMakl4T1M0NE5TNDVPQzR4TmprPQ==", "TVRFNExqRTJNUzR4TnprdU53PT0="]
+                 "value": [ "TmpFdU1qSTRMakUzTnk0NU1BPT0=", "TWpFNUxqZzFMakV3TWk0eU1EQT0=", "WldabVkzaHhZeTR4TVRRdU1qVXVNekl1T0RjPQ==", "ZEhseGNXSjJlR2t1TXpZdU1qSTVMakV3TWk0eE1UQT0=", "ZUdwb2MyZ3VNakU1TGpnMUxqazRMakUyT1E9PQ==", "TVRFNExqRTJNUzR4TnprdU53PT0="]
                },
 "ogColl":{"name":"\u7f51\u95e8",
-                 "value": [ "ZEM1amJpOUZlbkZ3VUdVNQ==", "ZEM1amJpOUZSMWhyZEVkWA==", "YzNwaFkyRnphR2N1WjJoeGFHaHpMbWRoTHpZNA=="]
+                 "value": [ "ZEM1amJpOUZlbkZxTmtVeQ==", "ZEM1amJpOUZSMWhyT0VSVA==", "ZG5sMmVYTnVjeTUzY1hOb2RHMWhMbWR4THpZNA=="]
                }, 
 "article":{"name":"\u6700\u65b0\u6587\u7ae0",
 "value":[]},
 "video":{"name":"\u7cbe\u5f69\u89c6\u9891",
 "value":[{"title":"\u65b0\u5510\u4eba\u76f4\u64ad",
-"url":"\/tEXS?shisr"},
+"url":"\/tEXS?vcyvt"},
 {"title":"\u65b0\u5510\u4eba\u4e9a\u592a\u53f0",
 "url":"\/v.php?id=ntd-mlt"},
 {"title":"\u5929\u56fd\u4e50\u56e2",
@@ -35,24 +35,24 @@ var feed_data =
 "url":"\/video\/"}]},
 "software":{"name":"\u7ffb\u5899\u8f6f\u4ef6",
 "value":[{"title":"\u795e\u5dde\u660e\u89c1\u5b89\u5353\u7248\u4e00\u952e\u7ffb\u5899\u5ba2\u6237\u7aef",
-"url":"\/FYMXJ?gzcpc"},
+"url":"\/FYMXJ?cdqxy"},
 {"title":"\u81ea\u7531\u95e8\u5b89\u5353\u7248",
-"url":"\/5c5tX?plvyg"},
+"url":"\/5c5tX?fxbcf"},
 {"title":"\u5b89\u5353\u7248\u65e0\u754c\u4e00\u70b9\u901a",
-"url":"\/Wf89M?krnqv"},
+"url":"\/Wf89M?rhgqf"},
 {"title":"\u795e\u5dde\u660e\u89c1TV\u5b89\u5353\u7248",
-"url":"\/CLZDc?qkgkt"},
+"url":"\/CLZDc?gbexq"},
 {"title":"\u66f4\u591a\u8f6f\u4ef6...",
 "url":"https:\/\/git.io\/szzd"}]},
 "website":{"name":"\u7f51\u5740\u5bfc\u822a",
 "value":[{"title":"\u6cd5\u8f6e\u5927\u6cd5\u660e\u6167\u7f51",
-"url":"\/GnoF?fnmjq"},
+"url":"\/GnoF?nochp"},
 {"title":"\u52a8\u6001\u7f51",
-"url":"\/dCyE?vcjjs"},
+"url":"\/dCyE?wgdby"},
 {"title":"\u65b0\u5510\u4eba\u7535\u89c6\u53f0",
-"url":"\/V8cz?bkngq"},
+"url":"\/V8cz?hzuil"},
 {"title":"\u66f4\u591a\u7f51\u5740...",
-"url":"\/TRG2?ivaes"}]},
+"url":"\/TRG2?vjwev"}]},
 "others":{"name":"\u795e\u5dde\u8425\u6551",
 "value":[]},
 "contact":{"name":"\u8054\u7cfb\u6211\u4eec",
@@ -60,12 +60,12 @@ var feed_data =
 "email":"YzJobGJucG9iM1Y2YUdWdVoyUmhiMEJuYldGcGJDNWpiMjA9"},
 "copyright":{"txt":"&copy; 2015-2020 \u795e\u5dde\u6b63\u9053",
 "domain":"ZDNkM0xuTm9aVzU2YUc5MWVtaGxibWRrWVc4dWIzSm4="},
-"tui":{"url":"\/mBs1?tnsol",
+"tui":{"url":"\/mBs1?hdbam",
 "value":"c2hlbnpob3V6aGVuZ2Rhby5vcmc="},
 "version":{"ver":"5.0",
 "url":"https:\/\/git.io\/fxNjC",
 "sha1":"555ACDC8F509DC216E45DC8EAA064F3A900A83F0",
 "sha512":"F06EDF7DDFB483AF55F6775FEB3C41D345923F5C0E8CE201944BC530321859BEDCC3DF7A96B98D568918D6F8E6310C5955D56DCA90FE8669DD143F34E8A7FB34",
-"time":"1600316678"
+"time":"1600316885"
 }
 }
