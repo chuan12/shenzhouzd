@@ -1,6 +1,6 @@
 var feed_data =
 {"domain":{"name":"\u5f53\u524d\u57df\u540d",
-                 "value": [ "WkROaGFuUmpNMjVqWldOdGVXVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGak9EZGhlalJoYldreWMzZ3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGeGVtZDFlSGwyZVd0dGVHTXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKd01YYzNNR05yZEhScmQyc3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "QUE9PQ==", "QUE9PQ=="],
+                 "value": [ "WkRjMGMzb3dhR3hvWmpWMWVDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRGaWF6RXhOVFUyZG1samJuY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKbGFEVnlZMmg0YldaNE1HUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkhvNE4zSjJjR2wwZUdoNGFDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "QUE9PQ==", "QUE9PQ=="],
                  "fq": "QUE9PQ=="
                },
                
@@ -13,15 +13,15 @@ var feed_data =
                }, 
 
   "fo04url": { "name": "fo04",
-                 "value": [ "TVM0eE5qUXVNamd1TVRnMQ==", "TVRFeExqSTBNUzQ0TVM0eE16az0=", "TXpZdU1qSTBMakV6TkM0M05BPT0="]
+                 "value": [ "TVRFeExqSTBPUzR4TUM0NU1nPT0=", "TVRFeExqSTBNUzQ0TVM0eE16az0=", "TVRFMExqTTNMakUyTGpNMg=="]
                }, 
 
   "longacting": { "name": "longdomain",
-                 "value": [ "Wkhvek1IbzFaMmt3WjI1NmFDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRJNE9UTTNPV1poWVd3MmNYY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkROdmQyeDVjWHB6Y1hWcmJIa3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "QUE9PQ==", "QUE9PQ==", "ZG5oM1puRmtlRzB1Y0dsdVozTmhMbWh2YzNRPQ=="]
+                 "value": [ "WkRKeVkyeDRkV1p6Tm5oaFpXNHVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRJM2RubHRPV2M1YVdwaGRtWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRJMlpUVmxkR04xTUdVMWMyY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "QUE9PQ==", "QUE9PQ==", "YjNOeGJXOHVibUZ2Y25VdVkyRnpZUT09"]
                },
 
 "ogColl":{"name":"\u7f51\u95e8",
-                 "value": [ "YzJSbWJtMWpkRzB1YldsMWNHRXVZbUZ5THpFPQ==", "YUc5cmRYVjVMbkoxYUdFdWFHOXpkQzgy", "YUc1bmVHRXVhMkZwZW1rdWFHOXpkQT09"]
+                 "value": [ "ZEdscmFtSjBjR2t1ZVdGdmVXRXVjSEpsYzNNdk1RPT0=", "Y25GMGFuQXViR2wxZVdVdWQyVmljMmwwWlM4Mg==", "Y201aWRXcHRMbnBvWlc1bmJYVXVZMkZ6WVE9PQ=="]
                }, 
 
 "article":{"name":"\u6700\u65b0\u6587\u7ae0",
@@ -32,7 +32,7 @@ var feed_data =
 
 "video":{"name":"\u7cbe\u5f69\u89c6\u9891",
 "value":[{"title":"\u65b0\u5510\u4eba\u76f4\u64ad",
-"url":"\/tEXS?pfvfw"},
+"url":"\/tEXS?yhcdn"},
 {"title":"\u65b0\u5510\u4eba\u4e9a\u592a\u53f0",
 "url":"\/v.php?id=ntd-mlt"},
 {"title":"\u5929\u56fd\u4e50\u56e2",
@@ -44,25 +44,25 @@ var feed_data =
 
 "software":{"name":"\u7ffb\u5899\u8f6f\u4ef6",
 "value":[{"title":"\u795e\u5dde\u660e\u89c1\u5b89\u5353\u7248\u4e00\u952e\u7ffb\u5899\u5ba2\u6237\u7aef",
-"url":"\/FYMXJ?jqqjq"},
+"url":"\/FYMXJ?rviax"},
 {"title":"\u81ea\u7531\u95e8\u5b89\u5353\u7248",
-"url":"\/5c5tX?lreef"},
+"url":"\/5c5tX?wghfy"},
 {"title":"\u5b89\u5353\u7248\u65e0\u754c\u4e00\u70b9\u901a",
-"url":"\/Wf89M?yosmz"},
+"url":"\/Wf89M?dhvjt"},
 {"title":"\u795e\u5dde\u660e\u89c1TV\u5b89\u5353\u7248",
-"url":"\/CLZDc?dxiia"},
+"url":"\/CLZDc?bpxhi"},
 {"title":"\u66f4\u591a\u8f6f\u4ef6...",
 "url":"https:\/\/git.io\/szzd"}]},
 
 "website":{"name":"\u7f51\u5740\u5bfc\u822a",
 "value":[{"title":"\u6cd5\u8f6e\u5927\u6cd5\u660e\u6167\u7f51",
-"url":"\/GnoF?kdtfn"},
+"url":"\/GnoF?xnlgu"},
 {"title":"\u52a8\u6001\u7f51",
-"url":"\/dCyE?xxgop"},
+"url":"\/dCyE?papsf"},
 {"title":"\u65b0\u5510\u4eba\u7535\u89c6\u53f0",
-"url":"\/V8cz?ekcbq"},
+"url":"\/V8cz?calit"},
 {"title":"\u66f4\u591a\u7f51\u5740...",
-"url":"\/TRG2?geytc"}]},
+"url":"\/TRG2?cxcml"}]},
 
 "others":{"name":"\u795e\u5dde\u8425\u6551",
 "value":[{"title":"\u660E\u6167\u5E7F\u64AD",
@@ -77,13 +77,13 @@ var feed_data =
 "copyright":{"txt":"&copy; 2015-2020 \u795e\u5dde\u6b63\u9053",
 "domain":"ZDNkM0xuTm9aVzU2YUc5MWVtaGxibWRrWVc4dWIzSm4="},
 
-"tui":{"url":"\/mBs1?dwftf",
+"tui":{"url":"\/mBs1?nnakr",
 "value":"c2hlbnpob3V6aGVuZ2Rhby5vcmc="},
 
 "version":{"ver":"5.0",
 "url":"https:\/\/git.io\/fxNjC",
 "sha1":"555ACDC8F509DC216E45DC8EAA064F3A900A83F0",
 "sha512":"F06EDF7DDFB483AF55F6775FEB3C41D345923F5C0E8CE201944BC530321859BEDCC3DF7A96B98D568918D6F8E6310C5955D56DCA90FE8669DD143F34E8A7FB34",
-"time":"1617122550"
+"time":"1617122754"
 }
 }
