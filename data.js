@@ -1,7 +1,7 @@
 var feed_data =
 {"domain":{"name":"\u5f53\u524d\u57df\u540d",
-                 "value": [ "WkRGM1lqWmtZbWh2WkRReE5YSXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRObFpuTnhaVEJtYldGak5IRXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRObloydDZOREE0YzJ3d01XMHVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRrMWVIWnBaSEZuZUhkcWJ5NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRGbGFHeHRiR3cxWkROMVpHNHVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkROMFoyTXdZbU5xYldkM2FHRXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
-                 "fq": "WkRKbmFqTm9ZbTlzTURsM1kzRXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
+                 "value": [ "WkhnMWRtUXlibXc0TVdOb09DNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRaNU1qY3lOekZvWVhSeWVTNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRSMWVtUnVhM281TUhneGRpNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRGM1lqWmtZbWh2WkRReE5YSXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKdGF6QjRkalIxWVhsdE5uUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRWM2VESnBhbWwyZFd4dU1pNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="],
+                 "fq": "WkROMWEyTnBObmMxYzNwaVltWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
 "shorturl":{"name":"\u77ed\u7f51\u5740",
@@ -13,15 +13,15 @@ var feed_data =
                }, 
 
   "fo04url": { "name": "fo04",
-                 "value": [ "TWpJd0xqRTBNUzR6TWk0eE16WT0=", "TVRFNExqRTJPQzR5TURndU56QT0=", "TVRFNExqRTJPQzR5TURndU56QT0="]
+                 "value": [ "TVRFMExqTTNMakU1TVM0eg==", "TVRFNExqRTJPQzR5TURndU56QT0=", "TlRrdU1URTFMakUzTGpFNE5RPT0="]
                }, 
 
   "longacting": { "name": "longdomain",
-                 "value": [ "WkROemNuaGphM0U1ZUc4MGFtb3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRFM2FXNWliR0V3WVdKcGRtNHVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRJemRETnVNSGQ1TTJsM2FHa3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRNd00yMW5jMjAwTVdKamVUQXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "Wkc5ME1qTnhPV3R3ZURsM1lpNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "YjNWb2VuaGxMbkp2ZFdkbExuZHZjbXM9"]
+                 "value": [ "WkRJeWRXSnVlSEU0TTJzMWNuTXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKMGREWmxZbWw0ZUdKa2FIa3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRFMGVISXpiSEZzWlRkc1p6WXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGbllubDBNMmhrWW1Wak5YZ3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKMU5YQnBhV0kxZUd3emVuUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "YjNCd2RXd3VlbWhoYjNwaExuQnlaWE56"]
                },
 
 "ogColl":{"name":"\u7f51\u95e8",
-                 "value": [ "ZW5GbFozSmtlRzR1WkhWaGJtTmxMblZ1Ynk4eA==", "WjNGd1lXdGxMbXRoYjNSaExuTndZV05sTHpZPQ==", "ZDJkdVlXNTVMbk52Ym1kallTNWpZWE5o"]
+                 "value": [ "WTNGa1pIWjJjV011YTNWb1lTNTNiM0pyTHpFPQ==", "ZG01dWIzTndabkF1Y205MWNHOHVjSEpsYzNNdk5nPT0=", "WjNad1oyZDBMbTFsYVd0aExtSmhjZz09"]
                }, 
 
 "article":{"name":"\u6700\u65b0\u6587\u7ae0",
@@ -32,7 +32,7 @@ var feed_data =
 
 "video":{"name":"\u7cbe\u5f69\u89c6\u9891",
 "value":[{"title":"\u65b0\u5510\u4eba\u76f4\u64ad",
-"url":"\/tEXS?gsbue"},
+"url":"\/tEXS?sjcke"},
 {"title":"\u65b0\u5510\u4eba\u4e9a\u592a\u53f0",
 "url":"\/v.php?id=ntd-mlt"},
 {"title":"\u5929\u56fd\u4e50\u56e2",
@@ -44,25 +44,25 @@ var feed_data =
 
 "software":{"name":"\u7ffb\u5899\u8f6f\u4ef6",
 "value":[{"title":"\u795e\u5dde\u660e\u89c1\u5b89\u5353\u7248\u4e00\u952e\u7ffb\u5899\u5ba2\u6237\u7aef",
-"url":"\/FYMXJ?lnvko"},
+"url":"\/FYMXJ?ymjwb"},
 {"title":"\u81ea\u7531\u95e8\u5b89\u5353\u7248",
-"url":"\/5c5tX?xfzzg"},
+"url":"\/5c5tX?ntgar"},
 {"title":"\u5b89\u5353\u7248\u65e0\u754c\u4e00\u70b9\u901a",
-"url":"\/Wf89M?ofpbl"},
+"url":"\/Wf89M?qaedp"},
 {"title":"\u795e\u5dde\u660e\u89c1TV\u5b89\u5353\u7248",
-"url":"\/CLZDc?eulya"},
+"url":"\/CLZDc?lphfb"},
 {"title":"\u66f4\u591a\u8f6f\u4ef6...",
 "url":"https:\/\/git.io\/szzd"}]},
 
 "website":{"name":"\u7f51\u5740\u5bfc\u822a",
 "value":[{"title":"\u6cd5\u8f6e\u5927\u6cd5\u660e\u6167\u7f51",
-"url":"\/GnoF?vwgzc"},
+"url":"\/GnoF?cghzb"},
 {"title":"\u52a8\u6001\u7f51",
-"url":"\/dCyE?yymfo"},
+"url":"\/dCyE?baeek"},
 {"title":"\u65b0\u5510\u4eba\u7535\u89c6\u53f0",
-"url":"\/V8cz?ibxxy"},
+"url":"\/V8cz?qnavw"},
 {"title":"\u66f4\u591a\u7f51\u5740...",
-"url":"\/TRG2?vmkjn"}]},
+"url":"\/TRG2?kcalg"}]},
 
 "others":{"name":"\u795e\u5dde\u8425\u6551",
 "value":[{"title":"\u660E\u6167\u5E7F\u64AD",
@@ -77,13 +77,13 @@ var feed_data =
 "copyright":{"txt":"&copy; 2015-2021 \u795e\u5dde\u6b63\u9053",
 "domain":"ZDNkM0xuTm9aVzU2YUc5MWVtaGxibWRrWVc4dWIzSm4="},
 
-"tui":{"url":"\/mBs1?valnz",
+"tui":{"url":"\/mBs1?kowzc",
 "value":"c2hlbnpob3V6aGVuZ2Rhby5vcmc="},
 
 "version":{"ver":"5.0",
 "url":"\/vGb1E?flrj5",
 "sha1":"555ACDC8F509DC216E45DC8EAA064F3A900A83F0",
 "sha512":"F06EDF7DDFB483AF55F6775FEB3C41D345923F5C0E8CE201944BC530321859BEDCC3DF7A96B98D568918D6F8E6310C5955D56DCA90FE8669DD143F34E8A7FB34",
-"time":"1619672373"
+"time":"1619672578"
 }
 }
